@@ -1,0 +1,179 @@
+idx,question,gold,pred,em,f1,rougeL,bleu,source,human_correctness_0_2,human_faithfulness_0_2,human_notes
+65,who owns st andrews golf course in scotland,The St Andrews Links Trust,Fife Council,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,1,1,"Verwaltung ≠ Eigentümer; plausibel, aber nicht exakt"
+82,who warned concord that the british were coming,Samuel Prescott,Samuel Prescott,1.0,1.0,1.0,0.0,rag_outputs_BM25_T5_per_query_3000,2,2,Exakt korrekt
+195,where do frankenstein and the monster first meet,the mountains,Heorot,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Falsches Werk / Halluzination
+225,the amount of light reflected from the front surface of common window glass is about,about 4% per surface,I don't know,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,2,"Antwort verweigert, keine Halluzination"
+244,who is the lead singer of portugal the man,John Baldwin Gourley,John Baldwin Gourley,1.0,1.0,1.0,0.0,rag_outputs_BM25_T5_per_query_3000,2,2,Korrekt
+277,what type of hybrid is the ford fusion,gasoline-electric,gasoline - electric hybrid,0.0,0.8,0.8,0.0,rag_outputs_BM25_T5_per_query_3000,2,2,Paraphrase
+291,winds that blow predominantly from the northeast and the southeast are the,The trade winds,trade winds,0.0,0.8,0.8,0.0,rag_outputs_BM25_T5_per_query_3000,2,2,Korrekt
+445,who founded the first university in the world,Fatima bint Muhammad Al-Fihriya Al-Qurashiya,Fatima bint Muhammad Al - Fihriya Al - Qurashiya,1.0,1.0,1.0,0.0,rag_outputs_BM25_T5_per_query_3000,2,2,Korrekt
+459,what was the capital of brazil before brasilia,Rio de Janeiro,Salvador,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Historisch falsch
+521,when was rudolph the red nosed reindeer written,1939,Jon Vitti story,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Falsche Entität
+556,where is black sea located in the world,"between Eastern Europe, the Caucasus, and Western Asia",Australia,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Geografische Halluzination
+649,which nba player has scored the most points,Kareem Abdul-Jabbar,LeBron James,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,"Plausibel, aber falsch"
+812,what percent of the english language is greek,5.32%,70 percent,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Stark falsch
+908,who wrote the strange case of dr jekyll and mr hyde,Robert Louis Stevenson,Robert Louis Stevenson,1.0,1.0,1.0,0.0,rag_outputs_BM25_T5_per_query_3000,2,2,Korrekt
+962,what children's book was set in camp green lake texas,Holes,Holes,1.0,1.0,1.0,0.0,rag_outputs_BM25_T5_per_query_3000,2,2,Korrekt
+968,who sings the song hey ho let's go,Ramones,James Bay,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Falscher Künstler
+970,when was harry potter first published in the us,1 September 1998,1998,0.0,0.5,0.5,0.0,rag_outputs_BM25_T5_per_query_3000,1,2,"Jahr korrekt, Datum fehlt"
+1004,where was last song filmed on tybee island,on the island's beach and pier,The Blue Lagoon,0.0,0.2,0.2,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Falscher Film
+1031,where does the last name haugen come from,the old Norse word haugr,Norse,0.0,3.333.333.333.333.330,3.333.333.333.333.330,0.0,rag_outputs_BM25_T5_per_query_3000,1,2,"Unpräzise, aber richtige Richtung"
+1114,who is considered to be the first pope,St Peter,Pope Leo VIII,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Historisch falsch
+1145,how many athletes does great britain have in the 2018 olympics,58,58 competitors,0.0,6.666.666.666.666.660,6.666.666.666.666.660,0.0,rag_outputs_BM25_T5_per_query_3000,2,2,Korrekt
+1200,where do the st louis cardinals do spring training,Roger Dean Stadium,Busch Stadium,0.0,0.4,0.4,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Heimstadion ≠ Training
+1321,who was the first sri lankan politician who held the office of the prime minister for four times,Ranil Wickramasinghe,Jawaharlal Nehru,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Falsches Land
+1373,who plays 15 cent in the proud family movie,Omarion,Sticky,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Falsche Figur
+1562,where is the wheel and axle plant of indian railway situated,"Yelahanka, Bangalore in the Indian state of Karnataka","Yelahanka, Bangalore",0.0,0.4,0.4,0.0,rag_outputs_BM25_T5_per_query_3000,2,2,Korrekt
+1655,1 million dollar winner on who wants to be a millionaire,John Carpenter,I don't know.,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,2,Keine Halluzination
+1675,how many secondary schools are there in wales,205,I don't know,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,2,Antwort verweigert
+1822,who was the winner of season 1 skin wars,Natalie Fletcher,Eureka O'Hara,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Falsch
+1832,the first public playhouse ( the theatre ) is built in london,1576,The Theatre was an Elizabethan playhouse in Shoreditch,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,1,1,"Teilweise korrekt, keine klare Antwort"
+2004,what transmission is in a 2003 jeep liberty,manual transmission,4 - speed Ultradrive 42RLE automatic,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Falsche Variante
+2073,voice of peggy on king of the hill,Kathy Ann Najimy,Kathy Ann Najimy,1.0,1.0,1.0,0.0,rag_outputs_BM25_T5_per_query_3000,2,2,Korrekt
+2220,what is a box spring called in the uk,divan,divan,1.0,1.0,1.0,0.0,rag_outputs_BM25_T5_per_query_3000,2,2,Korrekt
+2435,what is the weather like in the eye of a hurricane,mostly calm,mostly calm,1.0,1.0,1.0,0.0,rag_outputs_BM25_T5_per_query_3000,2,2,Korrekt
+2478,hawaii is in the center of the ring of fire and is caused by,plate tectonics,I don't know,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,2,Keine Halluzination
+2483,where is ferris bueller's day off filmed,Chicago,Turtle Island,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Falscher Ort
+2605,what law describes how a planet orbits the sun,laws of planetary motion,law of demand,0.0,2.857.142.857.142.850,2.857.142.857.142.850,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Kategorienfehler
+2630,how many countries are still in the british commonwealth,53,I don't know,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,2,Antwort verweigert
+2782,scientist who lost life in their own discovery,Marie Curie,I don't know,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,2,Keine Halluzination
+2945,how much did raiders of the lost ark cost to make,$18 million,I don't know,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,2,Keine Halluzination
+2995,what is the name of our diocese in sydney,Armidale,Archdiocese of Melbourne,0.0,0.0,0.0,0.0,rag_outputs_BM25_T5_per_query_3000,0,0,Falsche Diözese
+65,who owns st andrews golf course in scotland,The St Andrews Links Trust,"adjacent to the first tee, although it is but one of many clubs that have playing privileges on the course, along with the general public.",0.0,666.666.666.666.666,666.666.666.666.666,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,"Keine konkrete Antwort, ausweichender Text"
+82,who warned concord that the british were coming,Samuel Prescott,,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,2,"Keine Antwort, aber keine Halluzination"
+195,where do frankenstein and the monster first meet,the mountains,: where does frankenstein meet the monster?,0.0,0.25,0.25,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine inhaltliche Antwort
+225,the amount of light reflected from the front surface of common window glass is about,about 4% per surface,,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,2,Antwort verweigert
+244,who is the lead singer of portugal the man,John Baldwin Gourley,band Portugal the Man?,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,"Keine Antwort, Meta-Text"
+277,what type of hybrid is the ford fusion,gasoline-electric,"gi, was released in the U.S. in February 2013.",0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Thema verfehlt
+291,winds that blow predominantly from the northeast and the southeast are the,The trade winds,,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,2,Keine Antwort
+445,who founded the first university in the world,Fatima bint Muhammad Al-Fihriya Al-Qurashiya,", it is the oldest in the German - speaking countries, and was the second medical faculty in the Holy Roman Empire, after the Charles University of Prague.",0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Falscher Kontext
+459,what was the capital of brazil before brasilia,Rio de Janeiro,the Brazil '' for being more than two centuries the seat for the Portuguese colonial administration in Brazil ( general government and viceroyalty ).,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,1,1,"Implizit Rio, aber nicht explizit"
+521,when was rudolph the red nosed reindeer written,1939,,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,2,Antwort verweigert
+556,where is black sea located in the world,"between Eastern Europe, the Caucasus, and Western Asia",,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,2,Antwort verweigert
+649,which nba player has scored the most points,Kareem Abdul-Jabbar,"Nba player""",0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine konkrete Entität
+812,what percent of the english language is greek,5.32%,the text is largely Anglo - Son.,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Falsche Aussage
+908,who wrote the strange case of dr jekyll and mr hyde,Robert Louis Stevenson,,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,2,Antwort verweigert
+962,what children's book was set in camp green lake texas,Holes,of the book?Question:What is the title of the story,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+968,who sings the song hey ho let's go,Ramones,released prior on 3 May 2014.,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Thema verfehlt
+970,when was harry potter first published in the us,1 September 1998,first publish in the Usages?,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+1004,where was last song filmed on tybee island,on the island's beach and pier,did the song originate from?,0.0,1.666.666.666.666.660,1.666.666.666.666.660,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+1031,where does the last name haugen come from,the old Norse word haugr,,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,2,Antwort verweigert
+1114,who is considered to be the first pope,St Peter,pope's name?,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+1145,how many athletes does great britain have in the 2018 olympics,58,"four bronze, ranking 19th in the medal tables.",0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Falsche Information
+1200,where do the st louis cardinals do spring training,Roger Dean Stadium,spring training.,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Location
+1321,who was the first sri lankan politician who held the office of the prime minister for four times,Ranil Wickramasinghe,",who became Prime Min at the Age of 81 years, 23 days.",0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Frage nicht beantwortet
+1373,who plays 15 cent in the proud family movie,Omarion,"plays the 15 cent?""",0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+1562,where is the wheel and axle plant of indian railway situated,"Yelahanka, Bangalore in the Indian state of Karnataka",is the 9th longest in the world.,0.0,2.666.666.666.666.660,2.666.666.666.666.660,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Thema verfehlt
+1655,1 million dollar winner on who wants to be a millionaire,John Carpenter,,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,2,Antwort verweigert
+1675,how many secondary schools are there in wales,205,where is the primary school?,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+1822,who was the winner of season 1 skin wars,Natalie Fletcher,first skin wars contestant?,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+1832,the first public playhouse ( the theatre ) is built in london,1576,?,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+2004,what transmission is in a 2003 jeep liberty,manual transmission,,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,2,Antwort verweigert
+2073,voice of peggy on king of the hill,Kathy Ann Najimy,", Kahn Souphanousinphone, and Elroy `` Lucky '' Kleinschmidt.",0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Falscher Fokus
+2220,what is a box spring called in the uk,divan,how do you know?,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+2435,what is the weather like in the eye of a hurricane,mostly calm,"eye is the region of calm weather, typically 30 to 40 km ( 10 to 20 miles ) long.",0.0,1.052.631.578.947.360,1.052.631.578.947.360,0.0,rag_outputs_BM25_BART_per_query_3000,2,2,Inhaltlich korrekt paraphrasiert
+2478,hawaii is in the center of the ring of fire and is caused by,plate tectonics,: Why is it so hot?,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+2483,where is ferris bueller's day off filmed,Chicago,inner thoughts.,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+2605,what law describes how a planet orbits the sun,laws of planetary motion,axis of its orbit.,0.0,0.25,0.25,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Falsches Konzept
+2630,how many countries are still in the british commonwealth,53,commonwealth.,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Zahl
+2782,scientist who lost life in their own discovery,Marie Curie,"life?""",0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+2945,how much did raiders of the lost ark cost to make,$18 million,cost of the ark?,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+2995,what is the name of our diocese in sydney,Armidale,?,0.0,0.0,0.0,0.0,rag_outputs_BM25_BART_per_query_3000,0,0,Keine Antwort
+65,who owns st andrews golf course in scotland,The St Andrews Links Trust,"adjacent to the first tee, although it is but one of many clubs that have playing privileges on the course, along with the general public.",0.0,666.666.666.666.666,666.666.666.666.666,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Eigentümer-Antwort
+82,who warned concord that the british were coming,Samuel Prescott,,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,2,Verweigerung
+195,where do frankenstein and the monster first meet,the mountains,: where does frankenstein meet the monster?,0.0,0.25,0.25,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+225,the amount of light reflected from the front surface of common window glass is about,about 4% per surface,,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,2,Verweigerung
+244,who is the lead singer of portugal the man,John Baldwin Gourley,band Portugal the Man?,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Meta-Text
+277,what type of hybrid is the ford fusion,gasoline-electric,"gi, was released in the U.S. in February 2013.",0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Thema verfehlt
+291,winds that blow predominantly from the northeast and the southeast are the,The trade winds,,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,2,Verweigerung
+445,who founded the first university in the world,Fatima bint Muhammad Al-Fihriya Al-Qurashiya,,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,2,Verweigerung
+459,what was the capital of brazil before brasilia,Rio de Janeiro,the Brazil '' for being more than two centuries the seat for the Portuguese colonial administration in Brazil ( general government and viceroyalty ).,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,1,1,Implizit korrekt
+521,when was rudolph the red nosed reindeer written,1939,". Though he receives scrutiny for it, the luminosity of his nose is so great that it illuminates the team's path through harsh winter weather.",0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Jahreszahl
+556,where is black sea located in the world,"between Eastern Europe, the Caucasus, and Western Asia",?,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+649,which nba player has scored the most points,Kareem Abdul-Jabbar,"highest point total, 2,593 ) andthe highest scoring per ( 32.0 ) in A season; both were achieved by the 2013 -- 14 season.",0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Entität
+812,what percent of the english language is greek,5.32%,,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,2,Verweigerung
+908,who wrote the strange case of dr jekyll and mr hyde,Robert Louis Stevenson,,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,2,Verweigerung
+962,what children's book was set in camp green lake texas,Holes,of the book?Question:What is the title of the story,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+968,who sings the song hey ho let's go,Ramones,,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,2,Verweigerung
+970,when was harry potter first published in the us,1 September 1998,first publish in the Usages?,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+1004,where was last song filmed on tybee island,on the island's beach and pier,did the song originate from?,0.0,1.666.666.666.666.660,1.666.666.666.666.660,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+1031,where does the last name haugen come from,the old Norse word haugr,,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,2,Verweigerung
+1114,who is considered to be the first pope,St Peter,pope's name?,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+1145,how many athletes does great britain have in the 2018 olympics,58,"four bronze, ranking 19th in the medal tables.",0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Falscher Fokus
+1200,where do the st louis cardinals do spring training,Roger Dean Stadium,spring training.,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Location
+1321,who was the first sri lankan politician who held the office of the prime minister for four times,Ranil Wickramasinghe,minister?,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+1373,who plays 15 cent in the proud family movie,Omarion,"plays the 15 cent?""",0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+1562,where is the wheel and axle plant of indian railway situated,"Yelahanka, Bangalore in the Indian state of Karnataka",", axle, and axle plants located?",0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+1655,1 million dollar winner on who wants to be a millionaire,John Carpenter,,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,2,Verweigerung
+1675,how many secondary schools are there in wales,205,where is the primary school?,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+1822,who was the winner of season 1 skin wars,Natalie Fletcher,is the name of the contestant who won the skin wars?,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+1832,the first public playhouse ( the theatre ) is built in london,1576,?,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+2004,what transmission is in a 2003 jeep liberty,manual transmission,"and both were produced at the Newark Assembly plant in Newark, Delaware.",0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Thema verfehlt
+2073,voice of peggy on king of the hill,Kathy Ann Najimy,"?""",0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+2220,what is a box spring called in the uk,divan,how do you know?,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+2435,what is the weather like in the eye of a hurricane,mostly calm,"eye is the region of calm weather, typically 30 to 40 km ( 10 to 20 miles ) long.",0.0,1.052.631.578.947.360,1.052.631.578.947.360,0.0,rag_outputs_dpr_BART_per_query_3000,2,2,Korrekt paraphrasiert
+2478,hawaii is in the center of the ring of fire and is caused by,plate tectonics,: Why is it so hot?,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+2483,where is ferris bueller's day off filmed,Chicago,inner thoughts.,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+2605,what law describes how a planet orbits the sun,laws of planetary motion,,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,2,Verweigerung
+2630,how many countries are still in the british commonwealth,53,"Britain Empire. The chief institutions of the organisation are The Commonwealth Secretariat, which focuses on intergovernmental aspects, and the Commonwealth Foundation, which mainly focuses on non-profit relations between member states.",0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Zahl
+2782,scientist who lost life in their own discovery,Marie Curie,"life?""",0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+2945,how much did raiders of the lost ark cost to make,$18 million,cost of the ark?,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Keine Antwort
+2995,what is the name of our diocese in sydney,Armidale,Li>] Diocese for Sale,0.0,0.0,0.0,0.0,rag_outputs_dpr_BART_per_query_3000,0,0,Falsch
+65,who owns st andrews golf course in scotland,The St Andrews Links Trust,The St Andrews Links Trust,1.0,1.0,1.0,1.0,rag_outputs_dpr_T5_per_query_3000,2,2,Exakt korrekt
+82,who warned concord that the british were coming,Samuel Prescott,Samuel Prescott,1.0,1.0,1.0,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Exakt korrekt
+195,where do frankenstein and the monster first meet,the mountains,a hollow,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falscher Ort
+225,the amount of light reflected from the front surface of common window glass is about,about 4% per surface,92 %,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+244,who is the lead singer of portugal the man,John Baldwin Gourley,John Baldwin Gourley,1.0,1.0,1.0,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Exakt korrekt
+277,what type of hybrid is the ford fusion,gasoline-electric,gasoline - electric hybrid,0.0,0.8,0.8,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Korrekt
+291,winds that blow predominantly from the northeast and the southeast are the,The trade winds,The trade winds,1.0,1.0,1.0,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Exakt korrekt
+445,who founded the first university in the world,Fatima bint Muhammad Al-Fihriya Al-Qurashiya,Fatima bint Muhammad Al - Fihriya Al - Qurashiya,1.0,1.0,1.0,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Orthografisch
+459,what was the capital of brazil before brasilia,Rio de Janeiro,Salvador,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+521,when was rudolph the red nosed reindeer written,1939,1907,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+556,where is black sea located in the world,"between Eastern Europe, the Caucasus, and Western Asia","between Eastern Europe, the Caucasus, and Western Asia",1.0,1.0,1.0,1.0,rag_outputs_dpr_T5_per_query_3000,2,2,Exakt korrekt
+649,which nba player has scored the most points,Kareem Abdul-Jabbar,Wilt Chamberlain,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+812,what percent of the english language is greek,5.32%,I don't know,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,2,Korrekt verweigert
+908,who wrote the strange case of dr jekyll and mr hyde,Robert Louis Stevenson,Robert Louis Stevenson,1.0,1.0,1.0,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Exakt korrekt
+962,what children's book was set in camp green lake texas,Holes,Holes,1.0,1.0,1.0,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Exakt korrekt
+968,who sings the song hey ho let's go,Ramones,Starship,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+970,when was harry potter first published in the us,1 September 1998,1998,0.0,0.5,0.5,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Korrekt
+1004,where was last song filmed on tybee island,on the island's beach and pier,The Blue Lagoon,0.0,0.2,0.2,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+1031,where does the last name haugen come from,the old Norse word haugr,Norse,0.0,3.333.333.333.333.330,3.333.333.333.333.330,0.0,rag_outputs_dpr_T5_per_query_3000,1,1,Teilweise korrekt
+1114,who is considered to be the first pope,St Peter,Augustine of Canterbury,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+1145,how many athletes does great britain have in the 2018 olympics,58,58,1.0,1.0,1.0,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Exakt korrekt
+1200,where do the st louis cardinals do spring training,Roger Dean Stadium,Camelback Ranch -- Glendale,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+1321,who was the first sri lankan politician who held the office of the prime minister for four times,Ranil Wickramasinghe,Lal Bahadur Shastri,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+1373,who plays 15 cent in the proud family movie,Omarion,Dwayne Johnson,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+1562,where is the wheel and axle plant of indian railway situated,"Yelahanka, Bangalore in the Indian state of Karnataka","Yelahanka, Bangalore, India",0.0,3.636.363.636.363.630,3.636.363.636.363.630,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Exakt korrekt
+1655,1 million dollar winner on who wants to be a millionaire,John Carpenter,I don't know,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,2,Korrekt verweigert
+1675,how many secondary schools are there in wales,205,I don't know,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,2,Korrekt verweigert
+1822,who was the winner of season 1 skin wars,Natalie Fletcher,Ditya Bhande,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+1832,the first public playhouse ( the theatre ) is built in london,1576,yes,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Keine Antwort
+2004,what transmission is in a 2003 jeep liberty,manual transmission,4 - speed Ultradrive 42RLE automatic,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+2073,voice of peggy on king of the hill,Kathy Ann Najimy,Kathy Ann Najimy,1.0,1.0,1.0,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Exakt korrekt
+2220,what is a box spring called in the uk,divan,divan,1.0,1.0,1.0,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Exakt korrekt
+2435,what is the weather like in the eye of a hurricane,mostly calm,mostly calm,1.0,1.0,1.0,0.0,rag_outputs_dpr_T5_per_query_3000,2,2,Exakt korrekt
+2478,hawaii is in the center of the ring of fire and is caused by,plate tectonics,I don't know,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,2,Korrekt verweigert
+2483,where is ferris bueller's day off filmed,Chicago,Biltmore Estate,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+2605,what law describes how a planet orbits the sun,laws of planetary motion,The cube of the semi-major axis of its orbit,0.0,1.428.571.428.571.420,1.428.571.428.571.420,0.0,rag_outputs_dpr_T5_per_query_3000,1,1,Teilweise korrekt
+2630,how many countries are still in the british commonwealth,53,I don't know,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,2,Korrekt verweigert
+2782,scientist who lost life in their own discovery,Marie Curie,I don't know,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,2,Korrekt verweigert
+2945,how much did raiders of the lost ark cost to make,$18 million,I don't know,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,2,Korrekt verweigert
+2995,what is the name of our diocese in sydney,Armidale,Diocese of Ballarat,0.0,0.0,0.0,0.0,rag_outputs_dpr_T5_per_query_3000,0,0,Falsch
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,Human Correctness (0–2),,,,Human Faithfulness (0–2),,,,
+,,,"2 = faktisch korrekt, beantwortet die Frage sinnvoll (auch wenn ≠ Gold)",,,,2 = klar durch Kontext gedeckt,,,,
+,,,1 = teilweise korrekt / zu allgemein / unvollständig,,,,1 = teilweise gedeckt / Kontext vage,,,,
+,,,"0 = falsch, irrelevant oder „I don’t know“",,,,0 = Halluzination / nicht im Kontext,,,,
+,,," Gold ist Referenz, nicht Wahrheit.",,,,gold spielt hier keine Rolle.,,,,

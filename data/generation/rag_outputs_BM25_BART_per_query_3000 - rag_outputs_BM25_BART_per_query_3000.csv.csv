@@ -1,0 +1,972 @@
+idx,question,gold,pred,hit@1,hit@3,hit@5,hit@10,precision@1,precision@3,precision@5,precision@10,rr@1,rr@3,rr@5,rr@10,em,f1,rougeL,bleu,retriever,generator
+0,when is the last episode of season 8 of the walking dead,"March 18, 2018","two eight - episode parts, with the second part debuting on January 25, 2018.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,125,125,0.0,BM25,BART
+1,in greek mythology who was the goddess of spring growth,"Persephone (/pərˈsɛfəni/; Greek: Περσεφόνη), also called Kore (/ˈkɔːriː/; ""the maiden"")","""What is spring?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+6,what is the name of the most important jewish text,the Shulchan Aruch,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+8,what is the name of spain's most famous soccer team,Real Madrid,".""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+9,when was the first robot used in surgery,1983,performing open surgery.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+13,who sings the song i don't care i love it,Icona Pop and Charli XCX,"2003, becoming Allan's second straight No. 1 single.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+16,who are uncle owen and aunt beru related to,Shmi,do they look like?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+20,100 acres is equal to how many hectares,1 square hectometre (hm2),about 2.47 acres.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+22,where was donovan mitchell picked in the draft,13th,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+27,who is the president of costa rica 2017,Luis Guillermo Solís Rivera,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+29,when did power rangers tv show come out,"August 28, 1993",show?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+31,how many beverly hills cops movies are there,three,the movie?,1,1,1,1,1.0,3.333.333.333.333.330,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+32,who holds the most women's wimbledon titles,Martina Navratilova,you think?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+39,where does the last name hickey come from,Irish origin,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+43,where is the greatest royal rumble taking place,"Jeddah, Saudi Arabia",rumbles taking place?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+44,who sang my name is tallulah in bugsy malone,"Louise ""Liberty"" Williams",don't remember.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+48,what is andy's sisters name in toy story,Molly,daycare center.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+49,who sings with shaggy on it wasn me,English-Jamaican singer Rikrok,:,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+51,what is the largest catholic high school in america,St. Francis Preparatory School,where are the schools located?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+52,who established the peoples republic of china in 1949,Mao Zedong,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+54,who sang take that look off your face,Marti Webb,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+55,who plays percy in the lost city of z,Charlie Hunnam,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+58,who plays the first lady on house of cards,Joanna C. Going,"Who plays first lady?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+65,who owns st andrews golf course in scotland,The St Andrews Links Trust,"adjacent to the first tee, although it is but one of many clubs that have playing privileges on the course, along with the general public.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,6.666.666.666.666.660,6.666.666.666.666.660,0.0,BM25,BART
+68,which city and state hosts the annual college world series,"Omaha, Nebraska",", California",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+69,who is ted talking about in how i met your mother,Tracy McConnell,Something New '' and was promoted to a main character in season 9. The Mother is played by Cristin Milioti.,1,1,1,1,1.0,1.0,0.8,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+72,when does grey's anatomy season 14 premiere,"September 28, 2017",,1,1,1,1,1.0,6.666.666.666.666.660,0.8,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+76,what was uncle jesse's original last name on full house,Cochran,what is the last name of the last person you know.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+78,who pays the judgements on the judge mathis show,Greg Mathis,"), is one of the physically largest players in the major leagues.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+79,who made up the elf on the shelf,Chanda Bell,?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+82,who warned concord that the british were coming,Samuel Prescott,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+83,who lasted the longest on alone season 2,David McIntyre,"Who was the longest?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+88,where is the us military base in japan,"Yokota Air Base, Fussa, Western Tokyo",?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+89,who determines the size of the supreme court,Congress,see History of the Court of The United States.,0,0,0,1,0.0,0.0,0.0,0.3,0.0,0.0,0.0,125,0.0,0.0,0.0,0.0,BM25,BART
+90,who is the actor that plays lucifer on tv,Thomas John Ellis,tv.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+96,who designed the national coat of arms of south africa,Iaan Bekker,national flag),0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+98,when does model code of conduct come into force,immediately on announcement of the election schedule by the commission,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+111,when did now thats what i call music come out,28 November 1983,:,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+113,where is the 2018 grey cup being played,"The Brick Field at Commonwealth Stadium in Edmonton, Alberta",on TSN.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+116,where did the band bastille get their name,Bastille Day,: what is Bastille's name?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,28.571.428.571.428.500,28.571.428.571.428.500,0.0,BM25,BART
+118,who plays nicholas in the princess diaries 2,Chris Pine,"Unlike the first film, this film is not based on any of the books.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+122,the p-wave phase of an electrocardiogram (ecg) represents,atrial depolarization,waves?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+123,when did star trek the next generation first air,"September 28, 1987",the first air trek?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+132,who sang the most wonderful summer of my life,Jackie Ward,P>,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+137,how many oscars did on golden pond win,three,"do you mean by ""1""?",0,0,1,1,0.0,0.0,0.2,0.2,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+139,who won season 4 of america's got talent,Kevin Skinner,Mel B and Heidi Klum both returned for their second season on the judging panel.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+140,how many episodes on queen of the south season 1,13,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+143,who is the existing prime minister of pakistan,Imran Khan,: what do you mean?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+144,who is known as the father of texas,Stephen Fuller Austin,of Texas?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+146,what is the orange stuff on my sushi,tobiko,:,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+149,when did nsw last won a state of origin series,2018,and Jane Beedle finishing as runners - up.,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+150,when does life is strange before the storm part 2,October 2017,?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+154,when did the xbox 360 slim come out,in 2010,the first place?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+166,who spread the theory that one is a product of the mind and body,René Descartes,the word?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+168,how many goals scored ronaldo in his career,over 670,when did he score the most goals?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+178,when did the hornets move to new orleans,2002–03 season,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+186,fish appeared in the fossil record during the,the Cambrian explosion,record.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+190,who died from the band faith no more,singer Chuck Mosley,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+193,who signed the gun control act of 1968,President Lyndon B. Johnson,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+195,where do frankenstein and the monster first meet,the mountains,: where does frankenstein meet the monster?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.25,0.0,BM25,BART
+196,the human tendency to mimic other people’s behavior is an example of,Mirroring,mean by mimicry?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+199,how is the head of the church of england,the monarch is the supreme governor,: is it a church?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,BM25,BART
+205,how to remove a methyl group from benzene,replacement of a methyl group by a hydrogen atom,and two hydrogen atoms.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,15.384.615.384.615.300,15.384.615.384.615.300,0.0,BM25,BART
+209,the cuban missile crisis began in 1962 when which country placed nuclear missiles in cuba,Soviet Union,"?""",1,1,1,1,1.0,1.0,0.8,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+212,when did fasb codification become authoritative u.s. gaap,"after September 15, 2009",":What is the definition of ""authoritative""?",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+213,who plays frank in f is for family,Bill Burr,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+216,android operating system was acquired by google in,July 2005,www.google.com/android,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+219,who played daniel in the bible mini series,Jake Canuso,: daniel),0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+222,when is the last movie of divergent coming out,TBA,last book in Divergent.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+223,the former peterlee campus of east durham college,East Durham & Houghall Community College,where are the current buildings?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+225,the amount of light reflected from the front surface of common window glass is about,about 4% per surface,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+227,how many cm is a 24 inch tv,61,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+233,where was the walking dead season 7 filmed,Georgia,Owen Cavanaugh on The Good Wife since Season 2.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+236,who plays male lead in far from the madding crowd,Carey Mulligan,"1874 novel of the same name by Thomas Hardy, the fourth time this novel has been filmed.",1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+241,who is in the cast of the handmaid's tale,Elisabeth Moss,"' ; handmaiders are forbidden to use their birth names and must echo the male, or master, whom they serve.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+242,who owned the first casino in las vegas,local Las Vegas business owners,"culture, and is the host of the World Poker.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+244,who is the lead singer of portugal the man,John Baldwin Gourley,band Portugal the Man?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+253,who does billy russo become on the punisher,Jigsaw,in The Amazing Spider - Man # 162 ( November 1976 ).,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+255,who was the founder of chick fil a,S. Truett Cathy,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+257,where is the black box located on an airplane,usually mounted in the aircraft's tail section,Question: why is it there?Question,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+267,when did the brewers go to national league,1998,"played their homes games at Milwaukee's Miller Park. The stadium is currently home to the Brewers. Since the Brewers' inception, the stadium has a seated capacity of 40,900,",0,1,1,1,0.0,3.333.333.333.333.330,0.4,0.2,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+268,who are the songwriters for the greatest showman,Benj Pasek,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+269,who plays dylan in now you see me,Mark Ruffalo,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+270,where was the ark of the covenant taken,Kiriath-Jearim,"zer, where the Israelite encamped, and Aphenk ( probably Antipatris ), where they the Philistine encamped.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+271,harrow on the hill height above sea level,124 metres (408 ft),"or adjoining counties, the highest being Walbury Hill.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+272,who plays hitler in man in the high castle,Wolf Muser,the king.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+273,lowest city below sea level in the world,"Jericho, West Bank",>,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+275,who voiced jack in rise of the guardians,Chris Pine,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+277,what type of hybrid is the ford fusion,gasoline-electric,"gi, was released in the U.S. in February 2013.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+280,how many states is there in united states,50,". Roosevelt, personal vacations ).",0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.111.111.111.111.110,0.0,0.0,0.0,0.0,BM25,BART
+281,what is the first harry potter book called in england,Harry Potter and the Philosopher's Stone,", except the third, Harry Potter, and the Prisoner of Azkaban, where he is only mentioned.",1,1,1,1,1.0,6.666.666.666.666.660,0.8,0.6,1.0,1.0,1.0,1.0,0.0,36.363.636.363.636.300,36.363.636.363.636.300,0.0,BM25,BART
+282,when did montgomery ward's go out of business,2001,,0,1,1,1,0.0,6.666.666.666.666.660,0.4,0.2,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+283,who won series 7 of great british bake off,Candice Brown,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+284,who does the voice of special ed on crank yankers,Jim Florentine,:,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+289,who sings nothings gonna hurt you baby,Cigarettes After Sex,: what is the song?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+290,where in the bible does it talk about manna from heaven,Exodus 16:1–36,does it mean?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+291,winds that blow predominantly from the northeast and the southeast are the,The trade winds,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+297,what is the use of symbolic link in linux,to reorder the file system hierarchy,SCPQuestionQuestion:What is symbolic link?SCPQuestion,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+299,time after time song was in what movie,John Tucker Must Die,the movie?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+305,who sings i'm the one your mother warned you about,Mickey Gilley,do you mean?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+309,who made the song london bridge is falling down,Unknown,?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+310,when does love simon come out in canada,"March 16, 2018",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+317,what were the major components of clays american system,a tariff to protect and promote American industry,the system?Question: how did the clays system work?Question,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+325,who sings i wanna be like you jungle book,Louis Prima,:,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,16.666.666.666.666.600,0.0,0.0,0.0,0.0,BM25,BART
+327,who wrote the book of philippians in the bible,Paul of Tarsus,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+330,who sold more albums carrie underwood vs kelly clarkson,Carrie Underwood,who sells more albumsCarrie Clarkson,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+331,who is the oldest child in queen sugar,Nova Bordelon,voiced by Eva Bella as a young child and by Spencer Lacey Ganus as a teenager.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+332,when did second world war start and end,1 September 1939 – 2 September 1945,New Zealand.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+340,a spider with a skull on its back,Steatoda nobilis,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+349,when did the waltz become popular in england,the Regency period,when was the first waltze?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.25,0.0,BM25,BART
+352,what is expelled out of the body as faeces through the anus,"solid, semisolid, or liquid waste material",vagina?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+357,who was the chief guest of the official ceremony in the republic day,Crown Prince Mohammed bin Zayed Al Nahyan,Ceremony,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+365,who wrote the practice of the presence of god,"Brother Lawrence (born Nicholas Herman), a 17th-century Carmelite monk",Brother Lawrence's interlocutors. The basic theme of the book is the development of an awareness of the existence of God.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,12.903.225.806.451.600,12.903.225.806.451.600,0.0,BM25,BART
+367,what cities have been capital of the united states,New York City,: where did the capital come from?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+372,when did india conduct the nuclear test at pokhran,May 1998,"Buddha, was conducted in May 1974.",1,1,1,1,1.0,6.666.666.666.666.660,0.6,0.3,1.0,1.0,1.0,1.0,0.0,0.25,0.25,0.0,BM25,BART
+373,nhl record for shots on goal in a game,"Ray Bourque (March 21, 1991), 19",bound ) and touch a defender or rebound from the goal frame and bounce off a defenders or goalkeeper ''.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+374,where does the sagging pants trend come from,1990s,10s sagging has become popular with skinny jeans and branded boxer - briefs.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+375,who has played in the most nba finals games,Bill Russell,how many finals games have you played?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+378,moment of inertia of a rod about a point,radius of gyration,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+380,list of hum tv dramas based on novels,Dayar-e-Dil,the question.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+381,when does mark show up in grey anatomy,season two,"ABC Studios, in association with ShondaLand Production Company and The Mark Gordon Company ; the showrunner being Shonda Rhimes.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+385,in the 1st century bc egypt became a colony of,the Roman Empire,"which preceded it. The 1ber century is considered part of the Classical era, epoch, or historical period.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,BM25,BART
+387,who is the cheif minister of uttar pradesh up,Yogi Adityanath,?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+388,who played jono on star trek next generation,Chad Allen,of jono?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+390,this bear lives in the hundred acre wood,Winnie-the-Pooh,"mean?""",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+398,what is the holy book of lslam called,Quran,?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+409,who won the women's championship at wimbledon this year,Garbiñe Muguruza,"the All England Lawn Tennis and Croquet Club in Wimbledon, London, United Kingdom. The main tournament began on Monday, 2 July 2018 and finished on Sunday, 15 July 2018. Novak Djokovic won the Gentleman's Singles Title and Angelique Kerber won the Ladies Singles titles.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+415,who won second place in miss universe 2017,Laura González,the event. She is also the first Miss World winner to qualify as a Doctor.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+417,when does the new wheel of fortune season start,"September 10, 2018",prizes determined by spinning a giant carnival wheel.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+422,who has been elected next president of united nations 2018,María Fernanda Espinosa,"or by the House of Representatives, should the electoral College fail to award an absolute majority of votes to any person ).",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+424,when was the myers briggs type indicator developed,during World War II,functions is dominant for a person most of the time.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+425,when was the last time australia won the rugby world cup,1999,win the World Cup?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+428,where was the movie it's complicated filmed,New York City,be filmed?Question: how did it get filmed?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+435,who wrote the story for the shape of water,Guillermo del Toro,name.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+437,when do fifty shades of freed come out,"February 9, 2018","deepening relationship between a college graduate, Anastasia Steele, and a young business magnate, Christian Grey.",0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+444,where is the lighthouse in lighthouse point fl,Hillsboro Beach,",564,635 people at the 2010 Census.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+445,who founded the first university in the world,Fatima bint Muhammad Al-Fihriya Al-Qurashiya,", it is the oldest in the German - speaking countries, and was the second medical faculty in the Holy Roman Empire, after the Charles University of Prague.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+448,when did tiger win his last pga tournament,2007,tournament?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+450,who wrote aerosmith i don't want to miss a thing,Diane Warren,: what do you think aerosmith is?,1,1,1,1,1.0,1.0,0.6,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+459,what was the capital of brazil before brasilia,Rio de Janeiro,the Brazil '' for being more than two centuries the seat for the Portuguese colonial administration in Brazil ( general government and viceroyalty ).,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+460,where was the kath and kim movie filmed,Positano,anski.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+462,what is red's real name on that 70's show,"Reginald Albert ""Red"" Forman",s name?Question: who is red?Question,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.181.818.181.818.100,18.181.818.181.818.100,0.0,BM25,BART
+470,when did nhl start 3 on 3 overtime,2015–16 NHL season,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+471,who is the founder of red cross society,Henry Dunant,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+472,what are the three rivers of pittsburgh pennsylvania,Allegheny,oldest franchise in the AFC.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+476,what were the two super powers during the cold war,Soviet Union,?,1,1,1,1,1.0,3.333.333.333.333.330,0.4,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+477,at present who is the speaker of lok sabha,Sumitra Mahajan,,0,1,1,1,0.0,6.666.666.666.666.660,0.6,0.3,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+478,who voices the faceless old woman who secretly lives in your home,Mara Wilson,"""What is she?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+481,when did sweet dreams are made of this come out,1983,,1,1,1,1,1.0,6.666.666.666.666.660,0.6,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+484,who plays wendy the waitress in how i met your mother,Charlene Amoia,s ( Thomas Ian Nicholas ) wife Elllie in American Reunion ( 2012 ) from the American Pie series.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+486,where did the night at the museum take place,New York City's American Museum of Natural History,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+492,what are freshmen called at the air force academy,Fourth class cadets,"the western United States in Colorado, immediately north of Colorado Springs in El Paso County.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+500,how many gold medals did nz win in the 2018 commonwealth,46,much gold did you win in 2018.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+501,who is the actor playing terry on general hospital,Cassandra James,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+505,who is the leader of the state government in australia,the Queen of Australia,"usually the majority of the party or alliance that has a majority in the Lok Sabha, the lower house of India ''s Parliament.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.814.814.814.814.800,14.814.814.814.814.800,0.0,BM25,BART
+506,when was national food security act introduced in rajasthan,22 December 2011,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+513,what are the main sources of vitamin k,green leafy vegetables,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+514,when did the edwardian era start and end,1901 to 1910,Era end?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+521,when was rudolph the red nosed reindeer written,1939,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+527,when does season 3 of lucifer come out,"October 2, 2017","of May 28, 2018. 57 episodes of Lucifer have aired, concluding the third season.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+529,what kind of currency is used in new zealand,New Zealand dollar,Zealand?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.5,0.5,0.0,BM25,BART
+531,when was the last time mount shasta was active,about two centuries ago,"), which makes it the most puluminous volcanic stratovolecano in North America and the largest in the U.S. The volcano is classified as a ""Volcano of the Year"" by the National Park Service.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+539,which is first dawn of the planet of the apes or rise of the planet of the apes,Rise of the Planet of the Apes,"is the first dawn?""",1,1,1,1,1.0,1.0,0.8,0.5,1.0,1.0,1.0,1.0,0.0,18.181.818.181.818.100,18.181.818.181.818.100,0.0,BM25,BART
+543,coriolosis component of acceleration can be found in,the Earth,sending rattlesignakes to England.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+547,who sings i always feel like somebody's watching me,TRU,what is your favourite song?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+548,where is lebron on the all time scoring list,7,list?Question: why is he in the top 10?Answer,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+549,who wrote there's nothing holdin me back,Shawn Mendes,s the answer?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+550,when was silicon added to the periodic table,1823,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+556,where is black sea located in the world,"between Eastern Europe, the Caucasus, and Western Asia",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+560,when was central statistical organisation of india established,2 May 1951,is located in Delhi. Some portion of Industrial Statistics work pertaining to Annual Survey of industries is carried out in Calcutta.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+564,who plays red's voice in angry birds,Jason Sudeikis,:,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+568,what was the first book that charles dickens published,The Pickwick Papers,book?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+571,how many episodes is there in season 14 of greys anatomy,24,is there a season 14 episode?,1,1,1,1,1.0,6.666.666.666.666.660,0.6,0.5,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+573,who is the highest paid nba player in 2016,LeBron James,world?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+575,who has been on the throne the longest in england,Queen Elizabeth II,king of england),0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+576,where is earth within the milky way galaxy,Orion Arm,in the Milky Way galaxy?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+577,who plays shiv's ex boyfriend on succession,Ashley Zukerman,who played shiv?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+578,what is the population of yukon in 2017,"35,874 people","The territory has the smallest population of any provincial or territory of Canada, With 35, 874 people. Whitehorse is the territorial capital and Yukon's only city.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,19.999.999.999.999.900,19.999.999.999.999.900,0.0,BM25,BART
+579,when was a whiter shade of pale recorded,1967,:,1,1,1,1,1.0,1.0,0.8,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+589,when did the song all by myself come out,in 1975,", Opus 18. The chorus is borrowed from the song ` Let 'S Pretend ', which was written and recorded by the Paspberries and 1972.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+597,when does arrow season 6 episode 21 air,"May 3, 2018",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+598,who starred in the original movie cape fear,Robert Mitchum,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.2,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+599,who is the bloke in the go compare advert,Wynne Evans,Tenor,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+600,where does a jury of her peers take place,"fictional Dickson County (representing Dickinson County, Iowa)","March 5, 1917",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+603,what language do they speak in the czech republic,Czech,ɛ / ; ˈbəɛ - / ) ),1,1,1,1,1.0,6.666.666.666.666.660,0.6,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+604,who is el senor de los cielos based on,Amado Carrillo Fuentes,"`` '' The Lord Of the Skies'' ), because of the large fleet of jets he used to transport drugs. He was also known for laundering money via Colombia to finance his large fleet and airplanes.",1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+607,what year did the drummer lose his arm,1985,"band, which subsequently went on to its most commercially successful phase. He is known as `` The Thunder God '' by fans.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+613,when does celebs go dating series 3 start,4 September 2017,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+619,what is the newest jurassic park movie called,Jurassic World: Fallen Kingdom,the original Jurassic Park director Steven Spielberg as executive producers.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,14.285.714.285.714.200,14.285.714.285.714.200,0.0,BM25,BART
+622,who wrote the song one wing from sparkle,R. Kelly,what song is it about?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+623,who sang wish you were here pink floyd,David Gilmour,[1],1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+627,who won the women's 400 meter dash in the olympics,Shaunae Miller,two qualifying rounds leading to a final race between eight athletes.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+628,who has the most points in nba history career,LeBron James,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+629,who is paige on days of our lives,True O'Brien,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+634,bible verse if your hand causes you sin cut off,Matthew 5:30,d} that thy whole body should be cast into hell.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+638,when did the first slender game come out,2012,become a thing?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+640,when do the red sox play sweet caroline,in the middle of the eighth inning,caroline?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+644,who plays the black knight in monty python,John Cleese,,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+645,secreted by cells in the walls of the hearts atria,Atrial natriuretic peptide (ANP),,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+649,which nba player has scored the most points,Kareem Abdul-Jabbar,"Nba player""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+651,who did the soviet union support in china civil war,the CCP,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+653,when was the last time a total eclipse happened,"August 21, 2017","looks red, due to rayleigh scattering of the more blue light. Because of its reddish color, a partial lunar eclipse is sometimes called a blood moon.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+656,who played the scare crow in wizard of oz,Raymond Wallace Bolger,"on January 16, 2014, and was also the last remaining cast member with a speaking or singing role.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+667,where is the femur located on the human body,proximal (closest to the hip joint) bone of the leg,: is there a femur on the body?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,11.764.705.882.352.900,11.764.705.882.352.900,0.0,BM25,BART
+668,who said truth justice and the american way,the comic-book character Superman,Question: how did you come up with the phrase?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,14.285.714.285.714.200,14.285.714.285.714.200,0.0,BM25,BART
+669,who won the first stage of the 2018 tour de france,Fernando Gaviria of Quick-Step Floors,France?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+672,where is kuala lumpur located on a map,3°8′N 101°41′E﻿ / ﻿3.133°N 101.683°E,"north to Siammban, Negeri Sembilan in the south.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+673,when did falcon first appear in the mcu,in the 2014 film Captain America: The Winter Soldier,"$14.8 billion at the global box office, making it the highest - grossing film franchise of all time.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.222.222.222.222.220,14.814.814.814.814.800,0.0,BM25,BART
+675,when did the battle of bannockburn take place,24 June 1314,When was the Battle of Bannocksburn?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+677,who does danny end up with in just go with it,Katherine,"context""?",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+678,who played tj on head of the class,Rain Pryor,the food business.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+684,what is free trade area of the americas,agreement to eliminate or reduce the trade barriers,free trade areas of the American continent?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,26.666.666.666.666.600,13.333.333.333.333.300,0.0,BM25,BART
+685,who was the first to suggest an atom existed,the ancient Greek philosophers Leucippus and his pupil Democritus,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+686,what percentage of the us population is east of the mississippi,58.28%,: where does the river come from?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+687,who is gertrude bell queen of the desert,"an English writer, traveller, political officer, administrator, and archaeologist",,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+688,what is the name given to the rows in the periodic table,periods,table.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+689,who is the current director of the national park service,"Mike Reynolds, Acting Director",director?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.4,0.4,0.0,BM25,BART
+691,who was the first person who discovered gravitational pull,Aryabhata,", 23 days.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+695,can't help falling in love who wrote it,Hugo Peretti,what is the answer?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+697,where is finland located on a map of europe,Northern Europe,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+700,who wrote the i had a dream speech,Martin Luther King Jr.,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+701,who is the highest paid player in all of sports,Cristiano Ronaldo,world?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+706,who won the battle of charleston in the revolutionary war,the British,"?""",0,0,1,1,0.0,0.0,0.2,0.2,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+710,which of the following are components of the pns,nerves and ganglia outside the brain and spinal cord,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+711,who wrote the song come thou fount of every blessing,18th century pastor and hymnist Robert Robinson,td> 8.7. 8. 7,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+716,a series of unfortunate events season 1 episode 2,The Bad Beginning: Part Two,": ""What happened?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+719,who is the present speaker in lok sabha,Sumitra Mahajan of the Bharatiya Janata Party,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+720,who is said be the father of volleyball,William George Morgan,a volleyball player?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+722,who has the most medals in this year's winter olympics,Norway,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+723,when was the internet introduced in the philippines,"on March 29, 1994",?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+729,who is the heroine of quit india movement,Aruna Asaf Ali,"the month before, it was organised to protest the salt tax imposed by the British Raj in the colonial India.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+731,when can a med student be called doctor,Upon successful completion of medical school,a doctor?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+736,who played piggy in lord of the flies,Hugh Edwards,,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.111.111.111.111.110,0.0,0.0,0.0,0.0,BM25,BART
+741,when did disney's 101 dalmations come out,"January 25, 1961",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+742,when did they stop putting cigarettes in rations,1975,smoked cigarettes?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+743,when did reese's peanut butter cups first come out,1928,cup come out?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+749,who does christopher walken play in the jungle book,King Louie,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+751,what is the name of the island of haiti and dominican republic,Hispaniola,island.,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.111.111.111.111.110,0.0,0.0,0.0,0.0,BM25,BART
+754,where have the mescalero apache settled in new mexico,Mescalero Apache Reservation,: how long has the apache been in Mexico?Question,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.666.666.666.666.600,16.666.666.666.666.600,0.0,BM25,BART
+756,where is the new texas rangers stadium being built,Arlington,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+761,where was mash 4077 supposed to be in korea,"Uijeongbu, South Korea","orea.""",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+763,theme of the movie akeelah and the bee,overcoming obstacles despite difficult challenges along the way,.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+764,who has the most nba championships in nba history,Bill Russell,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+765,when will ios 10 be released for ipad mini,"September 13, 2016",10 release?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+770,when did north america arrive at the location it is in today,mid-Cretaceous period,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+772,who said off with their heads in alice in wonderland,The Queen of Hearts,"heads?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+774,who devised the first test for detection of arsenic in 1775,Carl Wilhelm Scheele,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+777,who plays the bad guy in looney tunes back in action,Steve Martin,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+779,when did dr seuss wrote his first book,1936,ose starring Paul Winchell as the voice of both Sam - I - Am and the first - person narrator.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+783,what is the average age to die in the uk,81.2,"group, were Celtic people speaking what is known as the Gaulish language.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+790,who sings the theme song for miami vice,Jan Hammer,:,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+791,where is red dog mine located in alaska,68°04′19″N 162°52′34″W﻿ / ﻿68.071989°N 162.876044°W,that the area was rich in metals.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+795,where does the name iron maiden come from,iron maiden torture device,ilations.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+796,where is orange county choppers located in new york,"the town of Newburgh, located in Orange County, New York",?Question: why are they in orange county???,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.529.411.764.705.880,3.529.411.764.705.880,0.0,BM25,BART
+797,when did my girl by the temptations come out,"December 21, 1964",do?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+799,when did the first winter olympic games take place,1924,Games held?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.2,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+802,when is the raiders first game in las vegas,2020,?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+805,who is chief executive of marks and spencer,Stephen Joseph Rowe,Commonwealth Secretary- General who is the chief executive OF the Commonwealth.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+809,what race is aaron judge of the new york yankees,African-American,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+811,when did the secret service start guarding the president,After the 1901 assassination of President William McKinley,founded to combat the then - widespread counterfeiting of U.N. currency.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.105.263.157.894.730,2.105.263.157.894.730,0.0,BM25,BART
+812,what percent of the english language is greek,5.32%,the text is largely Anglo - Son.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+813,who played alice in seven brides for seven brothers,Nancy Kilgas,maid?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+815,when does the 2018 mn legislative session end,"January 7, 2019",,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+819,when did dallas cowboys go to the superbowl,1970,of the question),0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+820,when did the last episode of code black air,"July 18, 2018",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+822,who plays marnie in bring it on again,Bethany Joy Lenz,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+827,when was the last time byu won utah,"November 28, 2009",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+828,who flew to close to the sun and his wings melted,Icarus,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+834,when was amen first used in the bible,Numbers 5:22,"word Amen include `` verily '' and `` truly ''. It can also be used colloquially to express stronger agreement, such in, or for instance, amen to this.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+838,who sings don't get around much anymore,Duke Ellington,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+842,when did the battle of fort sumter happen,"April 12–13, 1861",what is the battle?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+843,tallest person in the world guinness world record,Robert Wadlow,?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+844,at what output is marginal product of labour the highest,at the point of diminishing returns,highest output?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+850,who sing the theme song for good times,Jim Gilstrap,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+857,what is area code 01446 in the uk,Barry,64 is being reserved as an overlay location code for the 708 to provide additional numbering options for this area.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+858,when is halley's comet coming around again,mid-2061,lifetime. HalLEY last appeared in the inner parts of the Solar System in 1986 and will next appear in mid-2061.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,17.391.304.347.826.000,17.391.304.347.826.000,0.0,BM25,BART
+863,is tomato a fruit or vegetable us supreme court,vegetable,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+866,who plays dean and sam dad in supernatural,Jeffrey Dean Morgan,"series creator Eric Kripke, the character is mainly portrayed by Jeffrey Dean Morgan. John is the father of Sam and Dean Winchester, the show's protagonists.",1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,20.689.655.172.413.700,20.689.655.172.413.700,0.0,BM25,BART
+867,the first railway line between karachi and kotri was constructed in,April 1858,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+870,when does jacob find out he's a werewolf,In the second book of the series (New Moon),he's not a wolf?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+873,who is the creator of star vs the forces of evil,Daron Nefcy,: what do you mean?,1,1,1,1,1.0,1.0,0.8,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+878,where does it always sunny in philadelphia take place,Philadelphia,in Philadelphia in 2005.,1,1,1,1,1.0,1.0,0.6,0.4,1.0,1.0,1.0,1.0,0.0,0.4,0.4,0.0,BM25,BART
+879,who is the longest reigning wwe united states champion,Lex Luger,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+880,when did we start the pledge of allegiance,1942,of Allegiance?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+884,total number of articles in indian constitution at present,448,what are the articles?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+887,who teaches defense against the dark arts after snape,Amycus Carrow,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+888,who does the voice for the aflac duck,Gilbert Gottfried,"in the animated series ""The Adventures of Flac Duck""?",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+889,when was the last time celtics won nba championship,2008,team win the championship?),0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.111.111.111.111.110,0.0,0.0,0.0,0.0,BM25,BART
+895,when was the national world war ii memorial built,"April 29, 2004",memorial built?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+898,who wrote the book of obadiah in the bible,Obadiah,"21 verses, making it the shortest book in the Hebrew Bible.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+901,who plays janine's mom on house of payne,Anne-Marie Johnson,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+903,where was the lowest temperature ever recorded on earth,Soviet Vostok Station in Antarctica,Ground measurements.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+908,who wrote the strange case of dr jekyll and mr hyde,Robert Louis Stevenson,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+910,a large collection of servers is called a(n),server farm or server cluster,what is a server?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.222.222.222.222.200,22.222.222.222.222.200,0.0,BM25,BART
+914,when did the first rocket launched into space,1944,rocket?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+916,daniel bedingfield if you're not the one album,Gotta Get Thru This,Question: what is the name of the song?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+918,when did winning colors win the kentucky derby,1988,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.2,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+919,when was the last time the la kings made the playoffs,2017–18,in the first place?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+922,list three offices included in the executive office of the president,Office of Administration,.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+923,how many national parks are there in karnataka,five,where is the national park?,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+945,how many sports are there in the 2018 commonwealth games,19 Commonwealth sports,"Team consisted of 251 athletes, 130 men and 121 women, across 17 sports.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,125,125,0.0,BM25,BART
+947,queer eye for the straight guy catch phrase,American reality television series,"and Michael Williams along with their producing partner David Metzler ; it was produced by their production company, Scout Productions.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+952,who won britain's got talent 2012 winner,Ashleigh and Pudsey,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+953,what three offices made up virginia's representative government,lieutenant governor and attorney general,", and the Belgae. The Gauls, the largest and best attested group, were Celtic people speaking what is known as the Gaulish language.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.407.407.407.407.400,7.407.407.407.407.400,0.0,BM25,BART
+957,who plays the evil queen on once upon a time,Lana Maria Parrilla,: what's her name?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+962,what children's book was set in camp green lake texas,Holes,of the book?Question:What is the title of the story,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+968,who sings the song hey ho let's go,Ramones,released prior on 3 May 2014.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+970,when was harry potter first published in the us,1 September 1998,first publish in the Usages?,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,16.666.666.666.666.600,0.0,0.0,0.0,0.0,BM25,BART
+973,when was oman given the official name sultanate of oman,9 August 1970,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+976,who sang backing vocals on you're so vain,Mick Jagger,what song are you singing?,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.111.111.111.111.110,0.0,0.0,0.0,0.0,BM25,BART
+977,what episode did jim die on ghost whisperer,"""Imaginary Friends and Enemies""",im died on?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+979,who plays becky on the us cellular commercial,Darien Sills-Evans,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+990,what is an example of a natural climate record/proxy,ice cores,,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+991,where does the book of daniel take place,Babylon,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+997,who plays victoria in young and the restless,Amelia Heinle Luckinbill,do you mean?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1001,who won the cfp national championship last year,Alabama,.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1004,where was last song filmed on tybee island,on the island's beach and pier,did the song originate from?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.666.666.666.666.600,16.666.666.666.666.600,0.0,BM25,BART
+1008,who led the brewers in home runs in 1982,Gorman Thomas,bases ( 2606 ) and extra-base hits ( 534 ).,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1010,who won season 3 rupaul's drag race all stars,Trixie Mattel,": ""Who won the drag race?""",0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+1012,how far is the horsehead nebula from earth,approximately 1500 light years,where are the horseheads?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1014,who was the song i'll be missing you about,"Christopher ""The Notorious B.I.G."" Wallace",", 1997.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1019,who played sunshine in the movie harlem nights,Rochon,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1022,where do the chicago white sox play spring training,Camelback Ranch–Glendale,"White Sox -- Chicago, Illinois",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1031,where does the last name haugen come from,the old Norse word haugr,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1038,when was the last time north korea fired a missile,September 15,number of short - range missiles into the South Sea of the Japan ( E Sea of South Korea ).,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1041,who played professor wilder on dawson's creek,"Kenneth Joseph ""Ken"" Marino",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1043,who sang can't get enough of your love baby,Barry White,Theme ''. It became a gold record.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1044,who is nana saheb in bajirao mastani movie,Ayush Tandon,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1045,what is the color of hyperlink in html,blue,,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.111.111.111.111.110,0.0,0.0,0.0,0.0,BM25,BART
+1048,who is the managing director of hdfc bank,Aditya Puri,Today magazine ranked him # 24th in India's 50 Most Powerful People of 2017 list.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1050,how old do you have to be to run for the president of the united states,thirty-five Years,year is it?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1053,when did israel adopt the star of david,"October 28, 1948",israel.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1059,where are the ascii characters found in the utf-8 code points,The first 128 characters,or Universal Coded Character Set ) Transformation Format -- 8 - bits.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1069,is an encoding for english alphanumeric characters as 7-bit numbers,ASCII,or Universal Coded Character Set ) Transformation Format -- 8 -bit.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1071,who played lucky on king of the hill,Tom Petty,"roy `` Lucky '' Kleintchmidt, and",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1074,when did they start the draft for the vietnam war,"December 1, 1969",.,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+1077,who plays the mother in a monster calls,Felicity Jones,"a giant tree - like monster ( NeesON ), who states that he will come back and tell Conor three stories.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1078,when does the 16 days of activism campaign start,25 November,the 16-day-of-activism campaign?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1079,when did bud lose his leg in jag,2002,he lost his leg?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1080,who does mary camden marry in 7th heaven,Carlos Rivera,what is the name of the woman who married her?Question:Who is the mother of the child?Answer,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1083,who wrote the music for dances with wolves,John Barry Prendergast,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1084,who did the donkey talk to in the bible,Balaam,"written in the Bible, not the Bible itself.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1085,what movie has the song here comes the sun,Sgt. Pepper's Lonely Hearts Club Band,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1089,when did the song colt 45 come out,"September 6, 2001",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1090,what is the main train station in milan,Milan Central,"old central station ( built 1864 ), which was a transit station but with a limited number of tracks and space, so could not handle the increased traffic caused by the opening of the Simplon tunnel in 1906.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,5.263.157.894.736.840,5.263.157.894.736.840,0.0,BM25,BART
+1092,who handles the money in the us government,Department of the Treasury,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1097,when did the center of the roman empire moved from rome to constantinople,11 May 330 AD,was the center then?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1106,where did they film the first twilight movie,"primarily in Portland, Oregon","the relationship between Bella Swan ( a teenage girl ) and Edward Cullen ( a vampire ), and the subsequent efforts of Edward and his family to keep Bella safe from a coven of evil vampires.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1112,the evil queen's name in snow white,Queen Grimhilde,Snow White franchise. She is based on the Evil King character from the European fairy tale `` Snow White ''.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1113,who was the ruler of india when east india company was set up,Queen Elizabeth I,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1114,who is considered to be the first pope,St Peter,pope's name?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1119,where does the red river begin and end,"Harmon County, Oklahoma",incarceration.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1120,when did sachin tendulkar win the world cup,2011,Cup?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1122,when did beverly hills cop 2 come out,1987,you saw him?,1,1,1,1,1.0,3.333.333.333.333.330,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1124,which leader halted the muslim invasion of western europe at the battle of tours,Charles Martel,"""",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1126,what is the largest state in america by size,Alaska,terms of population?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1127,actor who plays jack in will and grace,Sean Patrick Hayes,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1129,who was the first person to die in romeo and juliet,Mercutio,,0,1,1,1,0.0,3.333.333.333.333.330,0.6,0.3,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+1131,who does chris griffin's voice on family guy,Seth Green,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1135,how many republicans are in the senate in 2018,51,who is the senate president?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1142,who did cleveland play in the finals last year,Golden State Warriors,on the team.,1,1,1,1,1.0,6.666.666.666.666.660,0.6,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1145,how many athletes does great britain have in the 2018 olympics,58,"four bronze, ranking 19th in the medal tables.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1149,who got the highest paid contract in the nba,Stephen Curry,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1151,the south african institute of tax practitioners was constituted as,a Not for Profit professional body,"promotes and focuses on the public interest, professional standards, ethics and integrity, albeit promoting the tax industry and its members.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.692.307.692.307.690,7.692.307.692.307.690,0.0,BM25,BART
+1152,which president was the president of columbia university,Dwight D. Eisenhower,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+1153,who played spur in man from snowy river,Kirk Douglas,"Who?""",1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1155,where is xanthophyll found in a plant's cell,leaves,.,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+1156,who pioneered the little black dress or lbd back in 1926,Coco Chanel,Its ubiquity is such that it is often simply referred to as the `` LBD ''.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1161,who were the first to start a company to trade with india,the Portuguese Estado da Índia,the rise of business were major causes of the Industrial Revolution.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.500.000.000.000.000,12.500.000.000.000.000,0.0,BM25,BART
+1162,pay scale of section officer in central secretariat,Junior Time Scale,"are governed by CentralSecretariat Service Rules of 1962, which has been issued under the powers of Article 309 of the Constitution of India,",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1163,who is the actor that plays jax in sons of anarchy,Charles Matthew Hunnam,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1169,who is the yankees all-time leader in pitching wins,Roger Clemens,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1170,where did the 2010 world cup take place,South Africa,.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1171,who plays the character dog in game of thrones,Rory McCann,"What is the dog?""",0,0,1,1,0.0,0.0,0.2,0.2,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+1174,the president of the united states is a member of what branch of government,the executive branch of the federal government,"of the U States Armed Forces. The constitution requires that the president is indirectly elected to a four - year term by the people through the Electoral College ( or by the House of Representatives, should the Electoral college fail to award an absolute majority of votes to any person ).",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,10.909.090.909.090.900,10.909.090.909.090.900,0.0,BM25,BART
+1179,who sings the song ain't no stopping us now,McFadden & Whitehead,who sang the song.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.2,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1183,what kind of boat is used in the everglades,Airboats,,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+1193,where do the amino acids come from in protein synthesis,tRNA molecules,: what amino acids do they come from?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1195,who replaced ringo starr on thomas the tank engine,Michael Angelis,"Wilbert Awdry and his son, Christopher Awdry.",0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,16.666.666.666.666.600,0.0,0.0,0.0,0.0,BM25,BART
+1197,who was the first president born a citizen of the united states,Martin Van Buren,the United States of America.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1199,who sings the song reunited and it feels so good,Peaches & Herb,?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1200,where do the st louis cardinals do spring training,Roger Dean Stadium,spring training.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1201,when was the last time the mavericks made the playoffs,2015–16,in the first place?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1205,when did the age of majority change from 21 to 18 in the uk,1970,. Supreme Court change from 18 to 18?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1206,who plays taylor on bold and the beautiful,Hunter Tylo,Hayes on the television series The Bold & the Beautiful?Answer.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1207,who played phil in phil of the future,Raviv Ullman,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1209,what is the clean up hitter in baseball,fourth player in the batting order,"by ""clean up hitter""?",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1210,what is the song anything you can do from,Annie Get Your Gun,' The song was also performed in the musical Annie Get your Gun by Ernie Merman and Ray Middleton.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,3.636.363.636.363.630,3.636.363.636.363.630,0.0,BM25,BART
+1212,what is the most popular car in russia,the classic Lada Riva,:,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1214,what was mrs howell's first name on gilligan's island,Lovey,what is the name of the island?Question:What is the island's name,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1218,who plays ruby on anne with an e,Kyla Matthews,"you think?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1222,how many points did robert parish score in his career,"23,334",what was the number of points he scored in a given season?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+1231,where is folic acid absorbed in the body,intestine,: what is the body doing?Question: why is it doing this?Question,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1235,what is the website for the united states postal service,www.usps.com,the few government agencies explicitly authorized by the United Nations Constitution.,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+1236,who owns the rio casino in las vegas,Caesars Entertainment Corporation,:,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1237,who has scored the most goals in the world cup final,Geoff Hurst,),1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1243,what was the name of the last planet of the apes movie,War for the Planet of the Apes,: what planet was the first planet of all apes movie.,1,1,1,1,1.0,1.0,0.6,0.3,1.0,1.0,1.0,1.0,0.0,47.058.823.529.411.700,47.058.823.529.411.700,0.0,BM25,BART
+1247,the condemnation of private property for public use is allowed under the state's right of,Eminent domain,?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1254,how much is a table spoon in ounces,0.50 US fl oz,:,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1258,what is the wimbledon runner up prize money,"£1,125,000",: What is the prize money for the winner of the Wimbledon Championship.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1263,who stars in the man in the high castle,Alexa Davalos,"the castle.""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1267,when was the lion the witch and the wardrobe first published,16 October 1950,wardrobe?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+1269,this refers to an old ritual of formalizing an engagement to marry,Betrothal (also called espousal),ritual?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1271,how many years is the term for a member of the house of representatives,two-year terms,the term been in use?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1277,what is the moon festival called in chinese,Mid-Autumn Festival,"moon festival""",0,0,1,1,0.0,0.0,0.4,0.2,0.0,0.0,0.25,0.25,0.0,0.4,0.4,0.0,BM25,BART
+1283,spain and portugal divide the world between them in,The Treaty of Tordesillas,what do you mean?,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,125,0.0,0.0,0.0,0.0,BM25,BART
+1287,who plays the clown in american horror story season 4,John Carroll Lynch,,1,1,1,1,1.0,1.0,0.6,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1288,when was dragon ball z first aired in the us,"September 13, 1996",?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1289,who played the kangaroo in horton hears a who,Carol Burnett,"Who?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1290,who sang the theme song to quantum of solace,Jack White,what is the song?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1293,who was the song hey jude written for,"John Lennon's son, Julian",,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1297,who said this quote ask not what your country can do for you,John F. Kennedy,; I can can do anything better than you. '' The song was first performed in Annie Get Your Gun by Ethel Merman and Ray Middleton.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1303,where did helium come from the early universe,Primordial nucleosynthesis,helium look like?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1305,what is meant by cyst in the ovary,a fluid-filled sac within the ovary,pain. This may result in vomiting or feeling faint.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1307,who plays the little girl in field of dreams,Gabrielle Mary Hoffmann,,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,125,0.0,0.0,0.0,0.0,BM25,BART
+1311,who produced as long as you love me,"Rodney ""Darkchild"" Jerkins",do you want?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1317,when is season 3 of star vs the forces of evil come out,"July 15, 2017",Forces of Evil (,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1318,most points ever averaged in a nba season,"1,389","did you average in a season?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1319,where was the titanic going when it sunk,New York City,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1320,who sings it all started with a beer,Frankie Ballard,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1321,who was the first sri lankan politician who held the office of the prime minister for four times,Ranil Wickramasinghe,",who became Prime Min at the Age of 81 years, 23 days.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1323,how many games did the cowboys win last year,9,what was the last game of the season?Question: why did they win so many games?Question,1,1,1,1,1.0,1.0,1.0,0.9,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1327,where is the aqueous humor located in a cow eye,ciliary epithelium,?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1335,which branch of government commands the army and navy,executive branch,and navy,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.4,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+1336,who played lincoln in steven spielberg's lincoln,Daniel Day-Lewis,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1344,who plays daniel in descendants of the sun,Cho Tae-gwan,:,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1353,who plays leonard snart in legends of tomorrow,Wentworth Earl Miller III,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1366,what was the composition of the estate general of france,clergy,were Celtic people speaking what is known as the Gaulish language.,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,16.666.666.666.666.600,0.0,0.0,0.0,0.0,BM25,BART
+1372,who won season one of rupaul's drag race,BeBe Zahara Benet,"Who won the drag race?""",0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+1373,who plays 15 cent in the proud family movie,Omarion,"plays the 15 cent?""",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+1375,who won the gold metal for men's ice hockey in 2014,Canada,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1376,what is the name of the pig in charlotte's web,Wilbur,The Pig in Charlotte's Web [ edit ],1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1381,who sang i want to change the world,Alvin Lee,the song.,0,1,1,1,0.0,3.333.333.333.333.330,0.4,0.2,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+1382,who has won the race to liquefy helium,Heike Kamerlingh Onnes,"the race?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1383,who voices captain dog in puppy dog pals,Patrick Warburton,the,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1387,who is known as the father of the internet,Vinton Gray Cerf,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1388,when was the first speed camera introduced in the uk,1991,appear?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1389,when is the new year day celebrated according to the indian national calendar,March 22/21,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1397,willy wonka and the chocolate factory 1971 cast charlie,Peter Ostrum,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1398,who sings the most wonderful time of the year,Andy Williams,you?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1407,in the kansas city style of jazz arrangements were based on,memory,is the context?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1409,when did they start putting vin numbers on cars,1954,ins on cars.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1410,where did the concept of informed consent first appear officially,a medical malpractice United States court case in 1957,does informed consent mean?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1413,who played roxy in the story of tracy beaker,Sophie Borja,: who plays roxy?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1414,when does the regular season start for the nfl 2018,"September 6, 2018","the NFL Mexico Game in Mexico City, which began in 2016 with a predecessor game in 2005.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.2,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1417,what is the source of the yangtze river,Qinghai,Andhra Pradesh.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+1418,when does season 2 of spirit riding free come out,"September 8, 2017","television series was renewed for a second season and it premiered on October 8, 2017.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,2.222.222.222.222.220,2.222.222.222.222.220,0.0,BM25,BART
+1419,who does flag go to at a military funeral,the next of kin,"as a salute, drumming and other military elements, with a flag draping over the coffin.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.526.315.789.473.600,10.526.315.789.473.600,0.0,BM25,BART
+1422,whose voice is the robot on the orville,Rachael MacFarlane,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1424,every morning in africa a gazelle wakes up author,Abe Gubegna,"your name?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1428,who did sweet pea belong to on popeye,Popeye,?,1,1,1,1,1.0,3.333.333.333.333.330,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1429,average salary of a person in the united states,"$31,099",:,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1432,where did the saudi foreign minister go to school,University of North Texas,"from 2007 to 2015, and he was also a foreign policy advisor to King Abdullah.",0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,125,0.0,0.0,0.0,0.0,BM25,BART
+1433,who is bone thugs n harmony signed to,eOne Entertainment,ah Come Up. The EP included their breakout hit single `` Thuggish Ruggish Bone ''.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1436,winner of comedy circus ke ajoobe grand finale,Krishna Abhishek,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1438,who wrote the song don t want to miss a thing,Diane Warren,,1,1,1,1,1.0,1.0,0.6,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1439,who won the most fa cups in england,Arsenal,"two UEFA Cup Winners'Cups, one Europa League and one UEFA Super Cup.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1443,when is the last time an 11 seed made it to the elite 8,2018,top 8 seeds in the world?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1445,where was avril lavigne's head above water video filmed,Iceland,in the middle of the night.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1448,who are the associate justices of the supreme court,Anthony Kennedy,,0,1,1,1,0.0,3.333.333.333.333.330,0.6,0.6,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+1451,college that has produced the most nfl quarterbacks,Purdue,543 ).,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1454,who's opening for justin timberlake in chicago,The Shadowboxers,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1456,who is representing mexico in little league world series,"Matamoros, Tamaulipas",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1457,the fa premier league is owned by 20 shareholders who are,the 20 member clubs,League ( EPL ).,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1458,who plays jack on secret life of the american teenager,Gregory P. Finley II,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1459,who has the most grammys of all time,Sir Georg Solti,greatest golfers OF all time.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1466,who wrote dr dre verse on forgot about dre,Eminem,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1470,who does the voice of elsa on frozen,primarily by Broadway actress and singer Idina Menzel,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1477,what does code red mean in the emergency room,fire has broken out somewhere in the hospital facility,thehospital facility.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,1.818.181.818.181.810,1.818.181.818.181.810,0.0,BM25,BART
+1479,who played the frog in gnomeo and juliet,Ashley Jensen,?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1488,when is super girl season three coming out,"October 9, 2017",super girl?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1489,who received the most electoral votes in the 2000 presidential election,George Walker Bush,Presidential Election.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1491,where did the battle of chattanooga take place,October and November 1863,:,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1492,when did the cross become a symbol of christianity,from the 4th century,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1494,when did anime become popular in the west,The 1960s,anime in Japan?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1496,where has the us manufacturing belt been traditionally located (specific cities),Chicago,where is it located?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1504,punjab and haryana high court chief justice name,Krishna Murari,"judges include Jagdish Singh Khehar, who was elevated to the Supreme Court of India.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1505,who is the highest ranking member of the senate,president pro tempore,set forth by 50 U.S.C. § 3093 ( c ) ( 2 ).,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.111.111.111.111.110,0.0,0.0,0.0,0.0,BM25,BART
+1507,who was the president when nafta was passed,Clinton,President Bush and President Obama.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1513,when is a breast cancer patient considered a survivor,"""living with or beyond cancer""",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1517,where did system of a down come from,"Glendale, California",it came from?Question: why did it come from.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1523,who played katherine chancellor's son on y&r,Beau Kazer,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1531,who is the original singer of sitting on the dock of the bay,Otis Redding,It reached number 3 on the UK Singles Chart.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1540,where is bile made and what does it do,produced by the liver of most vertebrates,for?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1542,who is dr altman on grey's anatomy,Kim Raver,: what do you mean?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1543,when does the haunted mansion turn to nightmare before christmas,late summer,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1545,when was the united states founded as a country,1776,United States?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1546,who plays it in stephen king's it,Bill Skarsgård,you mean?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1554,what happens in the battle between beowulf and the dragon,the dragon wounds Beowulf fatally,Question: What happens in battle between the dragon and Beowulf.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.4,0.4,0.0,BM25,BART
+1556,who plays the old lady in jackass 2,Spike Jonze,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1562,where is the wheel and axle plant of indian railway situated,"Yelahanka, Bangalore in the Indian state of Karnataka",is the 9th longest in the world.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.666.666.666.666.600,26.666.666.666.666.600,0.0,BM25,BART
+1563,present chairman of public accounts committee of lok sabha,Mapanna Mallikarjun Kharge,"you know?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1565,when did india win the first t20 world cup,2007,?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+1566,who got the biggest contract in the nfl,"Johnson, Calvin","the largest contract in nfl.""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1567,where was the salvation army founded in australia,"a small house in Lygon Street, Carlton",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1569,the average length of life of members of a species is called,mean life span,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1571,where did they film war for planet of the apes,"in the Lower Mainland in Vancouver,",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1573,barney in how i met your mother real name,Neil Patrick Harris,: what does your mother look like?,1,1,1,1,1.0,3.333.333.333.333.330,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1574,how many cards do you get when you play uno,seven cards,Gun by Ethel Merman and Ray Middleton.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1575,who provided the voice of the geico insurance company geico in its tv-ad debut,"Kelsey Grammer,",on car insurance. '',0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1576,who is the present captain of indian army,General Bipin Rawat,name?,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+1579,how much impact does the tourist industry have on the icelandic economy,10 percent to the Icelandic GDP,had a significant impact on the economies and survival and the colonies.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,1.111.111.111.111.110,1.111.111.111.111.110,0.0,BM25,BART
+1583,what type of government do we have in the united states today,Republic,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1585,where is the ileum located in the body,the final section of the small intestine,ileUM in Meckel diverticulum ).,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1588,when does season 2 a series of unfortunate events come out,"March 30, 2018",?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1589,who plays the goblin in harry potter 8,Warwick Ashley Davis,: what's the name of the goblin?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1590,how did american popular culture change around the turn of the 20th century,developed a series of new forms of music,?Question: what was popular culture like at the time.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1591,how soon after death does rigamortis set in,as soon as 4 hours post mortem,"stiffens. In humans, rigor Mortis can occur as soon as 4 hours post morten.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,5.714.285.714.285.710,5.714.285.714.285.710,28.175.950.490.399.500,BM25,BART
+1593,who played cotton in pirates of the caribbean,David Bailie,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1598,who is sasha on dancing with the stars engaged to,Emma Slater,asha engaged to?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1606,when was the 22nd amendment proposed and ratified,"March 21, 1947",did it become law?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1608,who played little jack in meet the fockers,Spencer and Bradley Pickren,"a sequel, Little Focker, in 2010.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1610,when did the pixel 2 xl come out,"October 19, 2017",,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1612,who beat the carolina panthers in the super bowl,New England Patriots,"beat the panthers?""",1,1,1,1,1.0,3.333.333.333.333.330,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1616,when does iron and wines new album come out,August 2017,new album?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1621,the joy of life was painted in which style,early modernism,"of a Virgin caused a contemporary stir, and was rejected as unfit by the parish.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1625,camila cabello - crying in the club album,Camila,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1631,who wrote the kill by 30 seconds to mars,Jared Leto,"band Thirty seconds to Mars, the song was released as the second single from Their second album, A BeautifulLie.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1641,who was the owner of the dodgers when jackie robinson played,Wesley Branch Rickey,( AL ) champion Houston Astros. It was sponsored by the internet television service YouTube TV and officially known as the W Series presented by YouTube TV.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1643,who figured out a way to determine the type of blood,Karl Landsteiner,blood type?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1645,to vote an election a person should be above the age of,18,most it is optional.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1654,the children's online privacy protection act (1998) is a law designed to protect consumers' right to,privacy,,0,1,1,1,0.0,6.666.666.666.666.660,0.4,0.2,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1655,1 million dollar winner on who wants to be a millionaire,John Carpenter,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+1657,where is wall drug located in south dakota,in the town of Wall,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1662,which is the nearest star to earth after sun,Proxima Centauri,the sun.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1663,when is season 6 of voltron coming out,"June 15, 2018",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1664,when is ariana grande's album sweetener coming out,"August 17, 2018",", Dangerous Woman, and features guest appearances from Pharrell Williams, Nicki Minaj and Missy Elliott.",1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1665,when does the 2018 19 nba schedule come out,"August 10, 2018",does it come out?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1666,what is the hierarchy in the roman catholic church,"bishops, priests, and deacons",:,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1668,when is the new barbie movie coming out,"May 8, 2020",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1674,how many new zealand soldiers died in ww1,"16,697",:,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1675,how many secondary schools are there in wales,205,where is the primary school?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1676,where is the oval office in the white house,at the West Wing's southeast corner,in office.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1682,who was the queen of britain during ww1,George V,is the queen?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1685,who is the minister of karnataka in 2018,H. D. Kumaraswamy,state of Karnataka?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1692,who wrote beauty is truth truth is beauty,Keats,"), an episode of the CBS television series Supergirl",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1694,who is the speaker of the house in the house of representatives,Congressman Paul Ryan from Wisconsin,of the House of Representatives in the country of representatives.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1696,who wrote the song can't you see,Toy Caldwell,is the song?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.2,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1697,who plays grace in grace stirs up success,Olivia Rodrigo,2015 Family - Drama film starring Olivia Rodrigo as Grace.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,3.636.363.636.363.630,3.636.363.636.363.630,0.0,BM25,BART
+1703,what is the biggest convention center in the us,McCormick Place,US?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1705,harry potter the name that cannot be said,Voldemort,"ly Hallows, the last book of the Harry Potter series.",0,1,1,1,0.0,3.333.333.333.333.330,0.4,0.4,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+1706,what area of san diego is sdsu in,The College Area,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1709,what mlb team has the most perfect games,Dodgers,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1712,when was the last time jacksonville jaguars went to superbowl,2017,plays its home games at TIAA Bank Field.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1717,what is the boy's name in paw patrol,Ryder,". The series first aired on NickelodeON in the United States on August 12, 2013.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1719,who was mission san juan capistrano named after,Saint John the Baptist,"missions established in present - day California. Named for Saint John the Baptist, the Mission is the namesake of the city and San Juan B Autista.",1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,2.758.620.689.655.170,2.758.620.689.655.170,8.055.259.301.867.160,BM25,BART
+1724,who wrote the poem a host of golden daffodils,William Wordsworth,the poem.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1725,who starred in one flew over the cuckoos nest,Jack Nicholson,"Kesey. The film stars Jack Nicholson, and features a supporting cast of Louise Fletcher, William Redfield, Will Sampson, and Brad Dourif. The Film also featured Christopher Lloyd in his film debut.",1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,12.121.212.121.212.100,12.121.212.121.212.100,0.0,BM25,BART
+1728,who plays my old kentucky home at the derby,the University of Louisville Marching Band,"his visits to the Bardstown, Kentucky farm called Federal Hill.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,125,125,0.0,BM25,BART
+1731,who wrote if a picture paints a thousand words,David Gates,had a hallucination '' in just `` a few minutes without strain ''.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1732,how many cigarettes in a pack in the us,at least 20,"can be closed again after opening, whereas soft packs can not.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1741,when did the song rubberband man come out,August 1976,song?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+1742,how many times have spain won world cup,one,"flu epidemic, and 2005, when of the NHL lockout.",0,0,0,1,0.0,0.0,0.0,0.4,0.0,0.0,0.0,16.666.666.666.666.600,0.0,0.0,0.0,0.0,BM25,BART
+1744,the federal depository insurance corporation (fdic) has the power to close a bank when,When the bank becomes critically undercapitalized,insolvent?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1747,where do they film still open all hours,MediaCityUK in Salford,with a fifth planned for late 2018.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1749,when did we become the united states of america,1776,of America?,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.111.111.111.111.110,0.0,0.0,0.0,0.0,BM25,BART
+1751,who was the leader of the bolsheviks when they overthrew the russian monarchy,Vladimir Lenin,Bolsheviks in the Bolshevik Revolution?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1752,when did the song 99 problems come out,"April 27, 2004",'.,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+1753,where is shooting of yeh rishta kya kehlata hai,Mumbai,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1754,who served as president of the united states from 1901 to 1909,Theodore Roosevelt Jr.,?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+1755,who played harmonica on the wizard black sabbath,Ozzy Osbourne,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1756,my life as a teenage robot series finale,Turncoats,"United States from 2008 to 2009. The series ended on May 2, 2009, with all 40 episodes aired.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1761,where is catholic university of east africa located,Nairobi Kenya,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+1763,when did the kings of comedy come out,2000,come out?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1768,when was the first issue of vogue published,1892,from that first issue through the last issue of 1969.,0,0,1,1,0.0,0.0,0.2,0.2,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+1770,where is the united kingdom located on the world map,off the north-western coast of the European mainland,,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+1773,when is bring your daughter to work day,the fourth Thursday in April every year,to work?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1774,who were the two scientists who proposed the theory of seafloor spreading in the early 1960s,Harry Hess,who was the first scientist to propose the theory?Question:,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1779,what was number one on 21st march 1999,"""Believe""",is number 1?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+1781,queen of the south season 3 episode 12 air date,"September 6, 2018","s the answer?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1793,who got second place on the world cup,Croatia,in third place.,0,1,1,1,0.0,3.333.333.333.333.330,0.4,0.2,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1794,what percentage of the uk population say they have no religion,26.1,no religious affiliation?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1801,when did the tax free savings account start in canada,"January 1, 2009","are not deductible for income tax purposes, unlike contributions to a Registered Retirement Savings Plan ( RRSP ).",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1802,who get the flag at a military funeral,the next of kin,.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1803,who was indian president when first nuclear test were conduct,Dr. Abdul Kalam,"code - named Smiling Buddha, was conducted in May 1974.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1804,when did great britain win the davis cup,2015,"1910s and the 1930s, and has seen a resurgence in recent years.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1805,a quorum for a decision in the supreme court is,six,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1818,where are receptors for water soluble hormones located,on the plasma membrane,Question: what are the receptors for?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,BM25,BART
+1819,what are the different kinds of mike's hard lemonade,lemonade,"2017. Founded in 1999, Mike ’s Hard Lemonades Co. defined the $3.2 billion flavored Malt beverage category with the introduction of its groundbreaking mike ""s soft Lemonade.",1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,689.655.172.413.793,689.655.172.413.793,0.0,BM25,BART
+1820,what percentage of blood is composed of plasma,55%,: what is the percentage of plasma that is not plasma?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1822,who was the winner of season 1 skin wars,Natalie Fletcher,first skin wars contestant?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1826,where was the movie lady in white filmed,"Wayne County, New York","> The movie was filmed in Wayne, New Jersey.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,3.333.333.333.333.330,3.333.333.333.333.330,0.0,BM25,BART
+1827,when was steph curry drafted in the nba,2009,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1832,the first public playhouse ( the theatre ) is built in london,1576,?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1838,who is the current chief minister of kerala,Pinarayi Vijayan,,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+1841,who played entwistle in last of the summer wine,"Herbert Tsangtse ""Burt"" Kwouk",t remember),0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1847,where does the last name shinn come from,Korea,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1850,when does the new season of legion come out,February 2018,d had a hallucination '' in just `` a few minutes without strain ''.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1853,game of thrones season 7 season 3 release date,"July 30, 2017",date.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1854,where did the king of france live before versailles,Tuileries Palace,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1856,who won season 11 of food network star,Eddie Jackson,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1858,when is the last time the capitals made it to the stanley cup,2017–18,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1864,who played the clown on american horror story,John Carroll Lynch,,1,1,1,1,1.0,1.0,0.6,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1867,who managed the estate when the lord was away,the steward,: the lord's wife.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.333.333.333.333.330,3.333.333.333.333.330,0.0,BM25,BART
+1868,how do you say great britain in french,Grande-Bretagne,: what is great?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1870,when was the last time man u was in the champions league,2017–18,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1876,when did i can only imagine get released,2001,?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1879,who played the ice queen in once upon a time,Elizabeth Mitchell,"What is the name of the queen?""",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+1881,where is dirty dancing supposed to take place,a resort in the Catskill Mountains,with Blue Peter presenter Mark Curry.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1884,who did the marlins beat in the 2003 world series,New York Yankees,the 2003 World Series.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1890,david tennant's last episode of doctor who,The End of Time,"Question: what's the answer?""",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,22.222.222.222.222.200,22.222.222.222.222.200,0.0,BM25,BART
+1891,who is the actor that plays the hound,Rory McCann,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1894,who wrote love so soft by kelly clarkson,Mozella,love mean?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1895,who is the home minister of india 2013,Sushilkumar Shinde,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1899,who survives the plane crash on grey's anatomy,Dr. Meredith Grey (Ellen Pompeo),the US. It reached number 3 on the UK Singles Chart.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1900,where is the united states located on earth,38°00′00″N 97°00′00″W﻿ / ﻿38.000°N 97.000°W,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1913,who is the famous painter who painted shakunthala,Raja Ravi Varma.,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1916,the highest yield of rice per hectare in india is in which state,West Bengal,rice was grown.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1917,who wrote have a little talk with jesus,Cleavant Derricks,`` It's All Right. '',1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1918,who owns the pawn shop on pawn stars,Richard (Rick) Kevin Harrison,:,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1920,who wrote the song i'm coming home,Jermaine Cole,?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1922,who has won the mens single title in the australian open tennis tournament 2018,Roger Federer,les Title and Angelique Kerber won the Women Singles titles.,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+1924,when does episode 5 come out for game of thrones,"April 12, 2015",?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1928,who sang best of my love by the eagles,Don Henley,"Who sang best""",1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1936,where is the baseball all-star game being played,"July 11, 2017",: the game is being played at the All-Star Game.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1937,who plays second base for the boston red sox,Dustin Luis Pedroia,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1943,when did the transcontinental railroad start being built,"January 8, 1863",built in the first place?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1957,who plays the role of julian on instinct,Naveen Andrews,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1960,when does dynasty come back for season 2,"October 12, 2018",You Go Up.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1972,who was prime minister when we joined europe,Edward Heath,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1973,who wrote turn me on by norah jones,John D. Loudermilk,do you mean?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1974,who sings the song tequila makes my clothes fall off,Joe Nichols,Songs chart in late 2005.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1975,when is the next dragonball movie coming out,January 2019 (January 2019) (U.S. theatrical),movie?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1977,what country has the most medals in olympic history,United States,,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,16.666.666.666.666.600,0.0,0.0,0.0,0.0,BM25,BART
+1978,what do the aliens from toy story say,"You have saved our lives, we are eternally grateful,""",Toy Story 3 ( 2010 ) and the animated short films.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1979,which country has the largest population in europe,Germany,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1983,who directed taylor swift out of the woods,Joseph Kahn,do?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+1985,who plays tom buchanan in the great gatsby 2013,Joel Edgerton,: what is the name of the character?Question: what's the name?Question,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1987,when does greys anatomy season 13 come on now tv,"September 22, 2016",: when is the episode coming on?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+1989,what type of paint are cars painted with,Enamel,>,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2004,what transmission is in a 2003 jeep liberty,manual transmission,,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,BM25,BART
+2007,what family is rosaline from in romeo and juliet,Capulet,who is a member of the Capulets.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2009,when does the next godzilla anime come out,November 2018,coming out?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2012,how many harry potter rides are at universal,four,Rowling. The attraction was designed by Universal Creative from an exclusive license with Warner Bros. Entertainment.,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+2014,when did what happens in vegas stays in vegas start,2004,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2016,where did the shot heard around the world happen,at the Polo Grounds in New York City,4 -- 2.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2019,who sings i'm trying to leave something behind,Sean Rowe,.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2020,when did sendong enter the philippine area of responsibility,Early on December 15,school graduation.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2023,who played the godfather in the movie the godfather,Marlon Brando,"The song `` I Have but One Heart '' is sung by Al Martino, who performed it in the Film as character Johnny Fontane.",0,0,1,1,0.0,0.0,0.4,0.2,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+2028,when did the pepsi max open in blackpool,28 May 1994,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2034,when has the eagles been to the super bowl,1960,,1,1,1,1,1.0,1.0,0.8,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2036,composition of the inner core of the earth,iron–nickel alloy and some light elements,: how does the Earth fit into the outer core?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2037,who was nominated first woman for rajya sabha,Rukmini Devi Arundale,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2039,which is the first news paper in malayalam,Rajyasamacharam,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2041,who is the girl in the bon jovi it's my life video,Shiri Appleby,"was written by Jon Bonjovi, Richie Sambora, and Max Martin.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2043,an animal that eat both plants and animals,Omnivore,:,1,1,1,1,1.0,3.333.333.333.333.330,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2044,who plays the little girl in christopher robin,Elsa Minell Solak,character?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2046,taarak mehta ka ooltah chashmah sonu original name,Jheel Mehta as Sonalika Aatmaram Bhide (Sonu),"AB TV. Reruns of the show started on Sony Pal on November 2, 2015.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2049,who plays gwen stacy in into the spiderverse,Hailee Steinfeld,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2051,when does kanye come on keeping up with the kardashians,season seven,"additionally serves as an executive producer. The series focuses on sisters Kourtney, Kim, and Khloé Kardashian.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2055,what does mono no aware mean in japanese,the pathos of things,"istfulness ) at their passing as well as a longer, deeper gentle sadness about this state being the reality of life.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,16.666.666.666.666.600,16.666.666.666.666.600,0.0,BM25,BART
+2056,who sings i always feel like someone is watching me,Rockwell,what song is it?,1,1,1,1,1.0,1.0,0.8,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2059,the blueprint of any database system is the,schema,.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2060,where is the groundhog for groundhog's day located,Punxsutawney in western Pennsylvania,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2066,what does the dc in washington dc stand for,District of Columbia,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2067,what is the medical term for webbed toes,syndactyly,"What is webbed toe?""",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2070,who was president of the united states when katrina hit louisiana,President George W. Bush,what was the name of the United States President?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.384.615.384.615.300,15.384.615.384.615.300,0.0,BM25,BART
+2073,voice of peggy on king of the hill,Kathy Ann Najimy,", Kahn Souphanousinphone, and Elroy `` Lucky '' Kleinschmidt.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2076,when did the chinese new year start 2018,15 Feb.,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2079,who has the power to create post offices,Congress,?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2083,when does the new season of major crimes start 2015,"June 8, 2015",season?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2085,how many seats do the democrats hold in the senate,46,?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+2087,when does once upon a time season 7 episode 11 come on,"March 2, 2018","Fridays, having premiered on October 6, 2017.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2089,what were the original m and m colors,tan,,0,0,1,1,0.0,0.0,0.2,0.2,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+2090,who landed the first 900 on a skateboard,Tony Hawk,", thereby facing down when coming down. It is considered one of skateboarding's most technically demanding tricks.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2093,why do the british wear a red flower,commemorate their servicemen and women killed in all conflicts,"Related ( 1997 ), Knock Off ( 1998 ), and Why Do Fools Fall in Love (1998 ).",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.181.818.181.818.100,18.181.818.181.818.100,0.0,BM25,BART
+2095,which team won most of the fifa world cup,Brazil,: the United States.,0,1,1,1,0.0,3.333.333.333.333.330,0.4,0.2,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2098,who developed the great man theory of leadership,Scottish writer Thomas Carlyle,.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2100,what is the function of the super vena cava,carries deoxygenated blood from the upper half of the body,what does it do?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2102,who is doing the half time super bowl,Justin Timberlake,: what time is it?,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+2105,when did gareth southgate first play for england,1995,"the United Kingdom, England ’s representative side plays in major professional tournaments, but not the Olympic Games.",0,1,1,1,0.0,6.666.666.666.666.660,0.6,0.3,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2110,what is the elevation of klamath falls oregon,"4,099 ft (1,249.4 m)",,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2111,when did phantom of the opera take place,in the 1890s,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2116,oriental bank of commerce is govt or private,public sector,"What is it?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2117,who is kyles mom on y & r,Diane Jenkins (Maura West),: what do you think?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2129,what are the names of the two rovers currently exploring mars,MER-A Spirit,the rovers?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2137,who writes the script for big bang theory,Chuck Lorre,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2138,who plays tom riddle in the half blood prince,Frank Stephenson Dillane,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2140,is pure gold an element or a compound,chemical element,or pure gold?Question:Is pure gold pure gold a compound?,0,1,1,1,0.0,6.666.666.666.666.660,0.6,0.4,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2143,the doctrine of lapse was causes of which rebellion,Indian Rebellion of 1857,"the doctrine?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2144,original singer of get your kicks on route 66,Nat King Cole,"Illinois, to Los Angeles, California.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2145,who played dumbledore in the goblet of fire,Michael Gambon,"you mean by ""dumbledore""?",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2147,what agency was created to secure america from terrorist attacks,United States Department of Homeland Security (DHS),,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+2148,where in the bible is the story of ruth and naomi,The Book of Ruth,of the story.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,5.714.285.714.285.710,28.571.428.571.428.500,0.0,BM25,BART
+2149,what country gave united states the statue of liberty,France,", 1886.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2150,what part of the brain is memory affected by alcohol,hippocampus,?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2152,who sang the song my heart will go on,Celine Dion,", and released in 1997.",1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2153,relaying signals from the neuron to other cells is a function of the,thalamus,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2156,where does black lightning tv show take place,Freeland,the world of Black Lightning?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2157,who killed peter on the tv show soap,Chester,:,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2161,where did our lady of mount carmel appear,England,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2162,when did that 70's show first air,"August 23, 1998",was that show first aired?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2169,how many terms can a governor serve in oklahoma,two consecutive terms,P>,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2176,where did jason voorhees get the hockey mask,from a victim,?Question: what is the name of the mask and why is it on the mask,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2177,who is the first miss world in india,Reita Faria Powell,", making her the first Asian woman to win the event. She is also the first Miss World winner to qualify as a Doctor.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2178,where was the first ice hockey game played,"at the Victoria Skating Rink in Montreal, Quebec, Canada",the first organized ice hockey in Canada.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,375,375,0.0,BM25,BART
+2181,what channel is the love station on sirius,channel 70,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2188,who does liam neeson play in star wars 1,Qui-Gon Jinn,The Phantom Menace.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2192,when did the us leave japan after wwii,"April 28, 1952",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2194,what is the name for the smell of rain,Petrichor,the smell.,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+2195,who invented the greater than and less than sign,Thomas Harriot,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2205,who has scored the most goals for arsenal,Thierry Henry,.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2210,what was the deadliest tornado in the united states,the Tri-State Tornado,"""What was it?""",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2215,who founded the first french colony in north america,Jacques Cartier,"of Virginia, and why did it take so long to settle there?Question:",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2218,what are the types of alternative dispute resolution,negotiation,>,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2219,who was the first draft pick in the 2018 nba,Deandre Ayton,?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2220,what is a box spring called in the uk,divan,how do you know?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2224,where does publishers clearing house get their funding,merchandise,money?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2226,who plays louie in stuck in the middle,Nicolas Bechtel,"regular episodes, the series also aired six shorts on December 16, 2016,",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2228,which structure in the urinary system carries urine to the bladder,ureters,.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2229,when was the spca established in south africa,1872,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2232,when did northern ireland become its own country,1921,country?,0,1,1,1,0.0,3.333.333.333.333.330,0.4,0.2,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+2233,how many times has itay won the world cup,four,"epidemic, and 2005, because to the NHL lockout.",0,0,1,1,0.0,0.0,0.2,0.4,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+2235,who plays babita in taarak mehta ka ooltah chashmah,Munmun Dutta,"2, 2015.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2237,who is the minister of local government and housing,The Rt Hon. James Brokenshire,Development's role?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2238,where did cypress hill get their name from,after a street in South Gate,name of their website.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2239,who plays brittany on young and the restless,Vanessa Lee Evigan,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2243,tremors a cold day in hell filming location,in the Cape Town area,">Los Angeles, CA.Question: What is the name of the film?",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.500.000.000.000.000,12.500.000.000.000.000,0.0,BM25,BART
+2249,who wanted to create a railroad from cape town to cairo,Cecil Rhodes,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2250,when did half pennies stop being legal tender,December 1984,tender?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2254,when was the first weather satellite launched into space,"February 17, 1959",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2255,what is the most popular music in cuba,Son,,1,1,1,1,1.0,6.666.666.666.666.660,0.6,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2257,how long is the ferry from bainbridge to seattle,8.6 miles,"ferries employed on the route have belonged to the Washington state ferry system, currently the largest ferry system in the United States.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2258,achievement of a cricketer out first ball for zero in both innings,a king pair,"did you know?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2260,psych episode where shawn and juliet start dating,"""In Plain Fright"" (5.11)",psych episode?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2265,the galápagos islands are part of what country quizlet,the Republic of Ecuador,"?""",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2267,when did dancing with the stars start this season,"September 24, 2018",Dancing with the Stars?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2270,who was the basketball player that died on the court,"Eric ""Hank"" Gathers",died?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2271,when was the first satellite put in space,"October 4, 1957","s Sputnik 1 and 2, beginning the Cold War Space Race between the two nations.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2279,who played mini-me in the austin power movies,Verne Jay Troyer,"""?",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2284,the pollution of love canal in new york was caused by ____,massive dumping of toxic waste,"disaster harming the health of hundreds of residents, culminating in an extensive Superfund cleanup operation.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,BM25,BART
+2285,who is responsible for founding the american financial system,the Bank of the United States,:,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2286,who built the san diego de alcala mission,Spanish friar Junípero Serra,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2288,who won the fifa under 17 world cup 2017,England,player in the world?,0,0,0,1,0.0,0.0,0.0,0.2,0.0,0.0,0.0,1.111.111.111.111.110,0.0,0.0,0.0,0.0,BM25,BART
+2292,what is the hottest temperature ever recorded in utah,117 °F / 47 °C,"21, 1983 by ground measurements.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2296,who sings the 4 song on sesame street,Feist,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2298,who is the highest goal scorer for real madrid,Cristiano Ronaldo,world?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2299,what's the name of the little rascals dog,Pete the Pup,"""What's the dog's name?""",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,2.222.222.222.222.220,2.222.222.222.222.220,0.0,BM25,BART
+2307,when did nigeria launched its first satellite nigeriasat-1,27 September 2003,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2308,when did the medieval times start and finish,5th to the 15th century,?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+2315,where are the withers located on a horse,the ridge between the shoulder blades,s wither?Question: what is a wither.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2323,when did lean wit it rock wit it come out,"January 17, 2006",ay and was produced by Maurice `` Parlae '' Gleaton.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2324,brightest star in the constellation lyra dan word,Vega,Milky Way.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2329,who did auburn lose to in football this year,Oklahoma,BS ) of the National Collegiate Athletic Association ( NCAA ) and the Western Division of the Southeastern Conference ( SEC ).,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2333,who has the longest win streak in mma,Anderson Silva,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2335,mercedes benz a class front or rear wheel drive,front wheel drive,all - Wheel drive.,1,1,1,1,1.0,3.333.333.333.333.330,0.4,0.2,1.0,1.0,1.0,1.0,0.0,6.666.666.666.666.660,6.666.666.666.666.660,0.0,BM25,BART
+2336,who are the candidates running for governor of maine,Shawn Moody,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2337,who sings i can't fight this feeling,REO Speedwagon,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2341,what's the highest elevation in new mexico,Wheeler Peak,"4,013 m ).",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2342,when did the vikings first reach the shores of britain,793,of debate if the term Viking represented all Norse settlers or just those who raided.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2348,what is made up of charged particles that continually escape from the corona,solar wind,"What is it?""",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2349,who is the winner of supper dancer 2018,Bishal Sharma,ur and Hemant Ruprell for their production house Frames Production.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2350,advantages of drying as a method of food preservation,"inhibits the growth of bacteria, yeasts, and mold","?""",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2351,what uses the energy found within a proton gradient to drive the synthesis of atp,oxidative phosphorylation or photophosphorylation,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2355,who are the characters in green eggs and ham,Sam-I-am,starring Paul Winchell as the voice of both Sam - I - am and the first - person narrator.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,3.157.894.736.842.100,3.157.894.736.842.100,0.0,BM25,BART
+2358,which waterway connects the mediterranean sea with red sea,Suez Canal,the red sea.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2359,when did typhoon haiyan hit the philippines 2013,At 2040 UTC on November 7,hit?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2361,who are the current justices of the u.s. supreme court,John Roberts,United States?,0,1,1,1,0.0,3.333.333.333.333.330,0.6,0.6,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+2363,how many seasons is there in the originals,5,he and his family become embroiled in the supernatural politics of New Orleans.,0,1,1,1,0.0,3.333.333.333.333.330,0.4,0.4,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+2366,in the first century c.e. much of europe north africa and the middle east were under the rule of the,Roman Empire,question?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2369,when did the allies break out of normandy,25–31 July 1944,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2376,when did pubg mobile come out in china,"February 9, 2018",minutes without strain ''.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2377,is leeds in the north west or north east,north-northwest of London,north east?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.333.333.333.333.330,3.333.333.333.333.330,0.0,BM25,BART
+2379,when does frank become president in house of cards,Chapter 26,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2382,what is the name of current indian president,Ram Nath Kovind,ian republic?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+2384,where is late night with stephen colbert filmed,Ed Sullivan Theater in New York City,is program writer Jen Spyra.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2387,who plays han solo in the new star wars movie,Alden Ehrenreich,: The New Star Wars Movie,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2388,acids are ionic compounds that relate to which element,water,"alcohols. In deoxygenation, the alcohol can be further reduced and removed altogether.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.3,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2390,when was the first gun law passed in the us,in 1813,US passed?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2393,when does call of duty blackops 4 come out,"October 12, 2018",and Xbox One. It is a sequel to the 2015 game Call of Ops : Black OPS III and is the fifth entry in the Black ops subseries as well as the 15th main installment in the Call of Warfare series overall.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2396,who is the author of al capone does my shirts,Gennifer Choldenko,author?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2397,what is the correct order of the chronicles of narnia movies,"The Lion, the Witch and the Wardrobe",1.5 billion worldwide among them.,1,1,1,1,1.0,1.0,0.6,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2399,what do you call a pyramid with a triangular base,a tetrahedron,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2404,who was the shrew in taming ofthe shrew,Katherina,: what was the name of the shrew?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2405,when is opening day for the nba 2017,"October 17, 2017",,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+2408,who won men's college basketball last year,North Carolina,championship?,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,16.666.666.666.666.600,0.0,0.0,0.0,0.0,BM25,BART
+2410,where does the show the office take place,"Scranton, Pennsylvania",is the office?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2411,who is the current president commission of ecowas,Marcel Alain de Souza,other issues with the current state of succession.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2412,when did the united states leave the philippines,"July 4, 1946",: when was the last time they left?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2417,who had cameo roles in mamma mia here we go again,Björn Ulvaeus,character?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2419,when was the last time someone lived in biltmore house,1956,live in the house?),0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2423,when did the first tim hortons open in the usa,1981,"chain ; as of December 31, 2016, it had a total of 4,613 restaurants in nine countries.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2425,what season did george die on grey's anatomy,fifth season,dying on grey's anatomy?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2431,who views crime as a desire for success when the legitimate means to achieve it are limited,Robert K. Merton,: what does crime mean?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2433,who said sun is the center of the solar system,Aristarchus of Samos,: what does the sun mean?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2434,what are the fox and the hounds names,red fox named Tod,: what is the name of the fox?Question: who is the hound,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,125,125,0.0,BM25,BART
+2435,what is the weather like in the eye of a hurricane,mostly calm,"eye is the region of calm weather, typically 30 to 40 km ( 10 to 20 miles ) long.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,10.526.315.789.473.600,10.526.315.789.473.600,0.0,BM25,BART
+2436,when does new season of blind spot start,"October 27, 2017",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2459,who appointed the current members of the supreme court,Donald Trump,Court?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2460,when does the diary of a wimpy kid the getaway come out,"November 7, 2017",py Kid the Getaway Come Out?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2463,who has a grammy oscar tony and emmy,Richard Rodgers,grand slam '' of American show business.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2468,when does pam come back to the office,"in ""Jury Duty""","The song appeared on his 1967 album, Come Back when You Go Up.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2469,who plays mabel's voice on gravity falls,Kristen Joy Schaal,"On Earth"" and ""The Man Who Loved Me"".",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2472,who was defeated in the battle of yorktown,British Army,,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+2475,when did countrywide merge with bank of america,2008,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2478,hawaii is in the center of the ring of fire and is caused by,plate tectonics,: Why is it so hot?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2479,when was the last time england went to a world cup final,1966,"national teams of the member associations of FIFA. The match was contested by France and Croatia, and held at the Luzhniki Stadium in Moscow, Russia.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2481,who won season 9 of americas got talent,magician Mat Franco,B and Heidi Klum both returned for their second season on the judging panel.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2483,where is ferris bueller's day off filmed,Chicago,inner thoughts.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2484,who banned all public meetings and procession in amritsar,Colonel Reginald Dyer,all public gatherings and procession.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2494,what is the dog called in midsomer murders,Sykes,: what do you mean by dog?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2496,who does karen gillian play in the avengers,Nebula,in avengers.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2497,who did the cavs trade for kyle korver,Mike Dunleavy,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2498,first african-american female actress who won the emmy awards,Gail Fisher,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2503,who plays dwight's brother on the office,Thomas Middleditch,"nephew, and Thomas Middleditch as his brother.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,4.444.444.444.444.440,4.444.444.444.444.440,0.0,BM25,BART
+2515,when did the new york mets became a team,1962,League ( NL ) East division. The Mets are one of two Major League clubs based in New York CITY ; the other is the New New York Yankees of the American League.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+2517,where does us route 42 start and end,"Louisville, Kentucky to Cleveland, Ohio",: where do we go?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2521,when does the second half of fuller house air,"December 9, 2016",first half?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2524,what is the name of the vaccine for tuberculosis,bacilli Calmette-Guérin (BCG),: what's the name?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2525,where is lake george located in new. york,in Warren County,in New York?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,3.333.333.333.333.330,3.333.333.333.333.330,0.0,BM25,BART
+2526,the structure found in the cell that contains strands of dna is called a(n),chromosomes,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2527,who are the surviving members of the beatles,McCartney,", and was also the last remaining cast member with a speaking or singing role.",0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+2528,where was war on the planet of the apes filmed,Lower Mainland in Vancouver,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2532,who gave the name cape of good hope,John II of Portugal,"), Portuguese : Cabo da Boa Esperança ( �ˈkaβu ðɐ ˈβoɑ ʃpɨˈɾɐ̃sɐ ) ), is a rock headlandOn the Atlantic coast of the Cape Coast in South",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.692.307.692.307.690,7.142.857.142.857.140,0.0,BM25,BART
+2538,what is the youngest state in the usa,Hawaii,P>,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,16.666.666.666.666.600,0.0,0.0,0.0,0.0,BM25,BART
+2546,who sings don't stand so close to me,The Police,is discovered.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2547,who plays adam's mom on man with a plan,Swoosie Kurtz,"aced former professional quarterback for the Pittsburgh Steelers, who is forced to form a team from the prison inmates to play football against their guards.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2550,who owns mgm resorts international in las vegas,Tracinda Corporation,,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+2552,what does thou shalt not bear false witness against thy neighbour mean,perjury,Reformation scholars.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2553,who won fifa world cup 2018 final match,France,"hniki Stadium in Moscow, Russia.",1,1,1,1,1.0,1.0,0.8,0.6,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2568,when did delegates begin to sign the completed document,"September 17, 1787",document?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2569,within the townships created by the land ordinance of 1785 one section was set aside for,the maintenance of public schools,the continental United States.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.222.222.222.222.200,22.222.222.222.222.200,0.0,BM25,BART
+2570,when was the last time browns had a winning record,1994,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2572,when does the latest riverdale episode come out,"May 16, 2018",episode coming out?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2578,who is morgan freeman in the lego movie,Vitruvius,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2582,when was the eiffel tower finished being built,15 March 1889,"steel lattice structure on theChamp de MarsIn Paris,France. It is named after the engineer Gustave Eiffelle, whose company designed and built the tower.",0,1,1,1,0.0,3.333.333.333.333.330,0.4,0.2,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+2583,who was the first president identified as a democrat,Andrew Jackson,who were the first presidents identified as democrats,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+2585,where is promontory point utah on a map,in Box Elder County,"population of about 2,000 people.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2587,who came up with the 2nd law of thermodynamics,Sadi Carnot,"accounts for the irreversibility of natural processes, and the asymmetry between future and past.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2589,who played penny in lost in space 2018,Mina Sundwall,,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+2594,when did mike trout come into the league,"July 8, 2011","2014 and 2016 ( finishing second in the 2012, 2013 and 2015 votes ).",0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,BM25,BART
+2595,the central dogma of molecular biology concerns the,flow of genetic information within a biological system,first stated by Francis Crick in 1958 :,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2596,how many episodes of beyblade burst god are there,48,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2598,where is the chichen itza located in mexico,"Tinúm Municipality, Yucatán State, Mexico",ichen itzáLocation:Chichéitzá,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2599,where did the invasion of normandy take place,6 June 1944,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2603,the hobbit desolation of smaug bard's son,John Bell,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2605,what law describes how a planet orbits the sun,laws of planetary motion,axis of its orbit.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.25,0.0,BM25,BART
+2606,other than water what is the most important ingredient of brown stock,bones,more flavor.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2608,who played buck rogers in the 25th century,Gil Gerard,ger?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+2611,how far south does the san andreas fault run,southern California,/ yr.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2616,who does phoebe from charmed end up with,Coop,?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2630,how many countries are still in the british commonwealth,53,commonwealth.,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+2631,what is an example of a radical in chemistry,hydroxyl radical (HO•),"anion ( HO − ) is Not a radical, since the unpaired atom is resolved by the addition of an electron ; singlet oxygen and singlet carbene are not radicals as the two electrons are paired.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.555.555.555.555.550,5.714.285.714.285.710,0.0,BM25,BART
+2632,who was portrayed as the anderson brothers cousin,Ric Flair,cousin?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2633,the stimulus for the formation of a platelet plug or a blood clot is,endothelial injury,the clot?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2635,who became the first pope of the roman catholic church,St Peter,who was the first bishop of the Roman Catholic Church.,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+2637,who is the song we belong together about,a woman's desperation for her former lover to return,: what is that song?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2638,dividing up africa among european countries was the goal of the,Berlin Conference of 1884,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2646,what player in the nfl has the most rings,Bill Belichick,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2648,when will the 2018 nba all stars be announced,"January 18, 2018","NBA Finals will be held on February 18, 2019 ; at the Zane Lowe Center in Orlando, Florida.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,BM25,BART
+2653,which english comedian became the first moomba king in 1967,Robert Morley,the first to become the first mamba king.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2660,who sings bring me back to life with evanescence,Paul McCoy of the band 12 Stones,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2663,when is celebrity big brother coming to cbs,"February 7, 2018",?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2668,when is dragon ball super 130 episode coming out,"March 18, 2018",sequel series Dragon Ball Z and one upcoming film based onThe Dragon Ball Super series.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2669,zones of upwelling near the shores of land masses have high primary production because such zones,"are rich in nutrients, including nitrate, phosphate and silicic acid",primary production.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2672,when do birth of the dragon come out,"August 25, 2017",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2684,what poem is engraved on the statue of liberty,"""The New Colossus",P>,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2689,what is the fifth letter of the greek alphabet,epsilon,"the word ""greek""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2693,who did greece beat to win euro 2004,Portugal,: what do you think?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2694,what speed does the space shuttle re-enter earth,100 km,"soft landing, while Luna 10 became the last mission to enter orbit.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2698,who does the voice of diane on family guy,Lori Alan,"Boss in the Metal Gear video game series. Alan is active with animal rescue and politics, and she currently lives in Los Angeles.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.08,0.08,0.0,BM25,BART
+2699,who is the second robot in i am frankie,Andrew,"Gaines, who is an android attempting to pass herself off as a normal school girl.",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2701,where is the final of u17 world cup,India,at The Luzhiki Stadium.,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+2704,when did the lion king movie come out,1994,' in just `` a few minutes without strain ''.,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,BM25,BART
+2706,what kind of milk is gouda cheese made from,cow's milk,: what type of milk are goudas made from.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,18.181.818.181.818.100,18.181.818.181.818.100,0.0,BM25,BART
+2709,who plays lord elrond in lord of the rings,Hugo Wallace Weaving,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2711,who won season 5 of america's got talent,Michael Grimm,Mel B and Heidi Klum both returned for their second season on the judging panel.,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+2713,the current chief of naval staff in nigeria,Ibok Ekwe Ibas,:,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2715,who won the womens battle royal wrestlemania 34,Naomi,battle royal is awarded a WrestleMania XXVIII battle royal trophy.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2716,the news print paper is obtained from which state in india,Madhya Pradesh,Print Ltd ).,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2717,who plays henry on once upon a time season 7,Andrew J. West,ry?,1,1,1,1,1.0,6.666.666.666.666.660,0.6,0.4,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2718,when did english merchants form the east india company,31 December 1600,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2724,who is the football coach at georgia southern,Chad Lunsford,?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2727,when did medicare begin in the united states,1966,medicare?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2729,where does a baker's cyst come from,knee arthritis,synovicular sac is often maintained.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2733,who has the most triple-doubles ever in the nba,Oscar Robertson,:,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2736,who died from the movie fast and furious,Paul Walker,,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+2738,where is the big 12 baseball tournament held,"at Chickasaw Bricktown Ballpark in Oklahoma City, Oklahoma",Tournament?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2739,who is the chairman of the lok sabha,the Vice President of India,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2745,who played the beast in the movie shot caller,Holt McCallany,"Donovan, Evan Jones, with Benjamin Bratt, and Holt McCallany.",1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,3.636.363.636.363.630,3.636.363.636.363.630,0.0,BM25,BART
+2749,who plays the frog on gnomeo and juliet,Ashley Jensen,?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2750,who was the pale rider supposed to be,Death,ing Western of the 1980s.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2751,guy who played opie on sons of anarchy,Ryan Douglas Hurst,in Bates motel.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2752,who does the green arrow marry in the comics,Black Canary,"on DVD to Regions 1, 2 and 4 and on Blu - ray to Regions A and B.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.2,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+2754,who did the peoples party nominate for president in 1892,James B. Weaver,the party's candidate for president?Question:Who was the candidate for President in 1893.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2757,who took the israelites to the promised land,Joshua,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2759,what is the meaning of sap erp system,enterprise resource planning software,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2760,when did ha long bay become a world heritage site,1994,?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2763,who sang the original version of red red wine,Neil Diamond,originally written and performed by Neil Diamond and recorded in 1967.,1,1,1,1,1.0,3.333.333.333.333.330,0.4,0.2,1.0,1.0,1.0,1.0,0.0,3.076.923.076.923.070,3.076.923.076.923.070,0.0,BM25,BART
+2766,who appoints the governor and deputy governors of rbi,The Government of India,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2768,who voices the bears in we bare bears,Eric Edelstein,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2769,who was amy dowden partner on strictly 2017,comedian Brian Conley,Th),0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2770,who played the bird woman in mary poppins,Jane Darwell,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2773,where did the phrase when pigs fly come from,Scottish proverb,to which the adnaton is being applied ) will never occur.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2774,where is the setting for leave it to beaver,United States,is the answer?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2778,where did clap and a half come from,Patrick reclaimed from his seventh grade Social Studies teacher,"was clap, and why?",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2782,scientist who lost life in their own discovery,Marie Curie,"life?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2786,who wrote the song i will follow him,Norman Gimbel,,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2789,snow white and the huntsman movie heroine name,Kristen Stewart,.,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+2790,how many teams from asia will qualify for world cup 2018,five,world?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2791,who would take over if the president dies,Vice President,President Obama.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.5,0.5,0.0,BM25,BART
+2795,who does the voice of dory in finding dory,Ellen DeGeneres,: what does dory say?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2800,when do we vote for a new governor in california,"November 6, 2018",,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2801,when does season 5 of the blacklist come out,"November 15, 2017",?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2807,who discovered that animals were made of cells,Henri Dutrochet,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2810,who plays sherman in mr peabody and sherman,Max Charles,is sherman?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2811,who plays oz in oz the great and powerful,James Franco,you think?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2812,when was the last superbowl the cowboys won,1995,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2817,who has the executive power in south carolina,the governor,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2824,when did the first pacific rim come out,2013,the first rim coming out?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2826,when is the start of the 2018 nba season,"October 16, 2018",,0,1,1,1,0.0,3.333.333.333.333.330,0.4,0.2,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2828,who sings i dreamed a dream in les miserables,the character Fantine,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2836,when did the last harry potter movie come out in theaters,2011,,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.111.111.111.111.110,0.0,0.0,0.0,0.0,BM25,BART
+2842,when did old 10p go out of circulation,January 2013,in circulation?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2843,where is the origin of the frontalis muscle,Galea aponeurotica,ifies it as part of the occiptitofrontalis muscle along with the occisis muscle.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2844,the four essential elements for life are _,Freedom of speech,",,,, and...",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2845,when is the last time england got to the semi final,1990,there?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2850,who is the singing voice of jasmine in aladdin,Maria Lea Carmen Imutan Salonga,ang Subprime in Teenage Mutant Ninja Turtles. Gottfried was also the Voice of the Aflac Duck until 2011.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2852,when did the mint start making proof sets,1936,proof set?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2860,when did the affordable healthcare act go into effect,"March 23, 2010",become law?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2861,the first vice president of india who became the president later,Sarvepalli Radhakrishnan,"president?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2862,who played cindy brady in a very brady christmas,Jennifer Runyon,. Ron Kuhlman and Jerry Kouser also reprised Their characters from The short - live 1981 sitcom titled The BradyBrides.,1,1,1,1,1.0,3.333.333.333.333.330,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2863,what episode of american dad is krampus on,the eighth episode of the tenth season,american father is on.,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2864,when was the last time world cup was held in england,1966,the United States?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2867,what type of car does dwight schrute drive,1987 Pontiac Trans Am,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2869,what is apollo the god of in roman mythology,music,is a god of the underworld.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2870,what do you get with diablo 3 ultimate evil edition,the original console version of Diablo III,song was first performed in Annie Get Your Gun by Ethel Merman and Ray Middleton.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2871,where did the chinese tallow tree come from,eastern Asia,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2874,the virus in rise of the planet of the apes,ALZ-113,"What is it?""",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2876,who used the term element for the first time,Plato,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2884,how many times have patriots been to the superbowl,nine times,of the NHL lockout.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2886,who is credited with the first idea of a nuclear atom,Ernest Rutherford,bomb?,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2887,who are the twins in better call saul,The Sklar brothers,Question: what is the name of the twins?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.181.818.181.818.100,18.181.818.181.818.100,0.0,BM25,BART
+2890,when did america become the united states of america,1776,of America?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2894,who has sold the most albums world wide,The Beatles,books.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2900,who plays laura croft in tomb raider 2018,Alicia Vikander,: what do you mean?,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2901,how many centuries of rohit sharma in international cricket,24,in T20I cricket -- as of July 2018.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2902,twilight zone the mind and the matter cast,Shelley Berman,the matter.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2908,a glowing cloud of hot interstellar gas inside of which stars are being formed is called a(n),diffuse nebulae,.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2914,when does the new diary of a wimpy kid movie come out on dvd,"August 8, 2017",impy Kid movie coming out on DVD?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2916,cytosine is an example of a nitrogen base found on what acids,nucleic,of electrons of a hydrogen atom.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2919,where does jacob wrestle with an angel in the bible,Genesis,own name. Jacob then names the place where they wrestled Penuel [ פוְנְרְל `` Face of God'' or `` facing God '' ].,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.3,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2922,when did the cask of amontillado take place,in an unnamed Italian city,taken place),0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2929,who is associated with the concept of power elite,sociologist C. Wright Mills,,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2935,where did the terrorists strike in munich germany in 1972,"Munich, West Germany",,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2936,when was the treaty of sugauli concluded and between whom,signed on 2 December 1815,: What is the name of the treaty?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2937,episode of the office where jim kisses pam,Casino Night,were encamped.,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+2939,where is dna stored in the cell as chromatin,within the nucleoid region,?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2943,where did ali do his rope a dope,his 1974 Rumble in the Jungle match against George Foreman,execute devastating offensive maneuvers and thereby winning.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2945,how much did raiders of the lost ark cost to make,$18 million,cost of the ark?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2948,where was football first played in the world,China,play?Question: what is football like today?,0,0,1,1,0.0,0.0,0.2,0.1,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,BM25,BART
+2949,who is responsible for issuing accounting standard in india,Accounting Standards Board,,0,0,0,1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,14.285.714.285.714.200,0.0,0.0,0.0,0.0,BM25,BART
+2954,where are most of the potatoes grown in idaho,The Eastern Idaho region,where is the most potatoes grown?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,BM25,BART
+2958,where did the expression throw under the bus come from,President Galtieri had pushed her under the bus,- friendly relationship when the relation becomes controversial or unpopular.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.764.705.882.352.900,11.764.705.882.352.900,0.0,BM25,BART
+2960,how i met your mother barney 200th girl,bodybuilder,: how did you meet her?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2961,who has the legal authority to bind the us government on a us government contract,Federal Acquisition Regulation,what is the legal power to bind us on a contract.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2963,who wrote about peter rabbit and jemima puddle duck,Beatrix Potter,eter duck.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2965,which disorder involves the retrograde passage of infected urine,Vesicoureteral reflux (VUR),is there a disorder?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2966,who played kayla brady on days of our lives,Catherine Mary Stewart,game?,0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2969,what is one of the greatest structural achievements of the bronze age,the corbelled arch,architectural achievement of the Bronze age.,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.222.222.222.222.220,2.222.222.222.222.220,0.0,BM25,BART
+2970,who does chris hemsworth play in home and away,"Kimberly Jonathan ""Kim"" Hyde",berly Jonathan '' Hyde.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,5.714.285.714.285.710,5.714.285.714.285.710,0.0,BM25,BART
+2976,how many episodes is season 6 of mindy project,10,: what's the season six theme?,0,1,1,1,0.0,3.333.333.333.333.330,0.4,0.3,0.0,3.333.333.333.333.330,3.333.333.333.333.330,3.333.333.333.333.330,0.0,0.0,0.0,0.0,BM25,BART
+2978,when did to kill a mockingbird come out,1960,.,1,1,1,1,1.0,6.666.666.666.666.660,0.4,0.2,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2981,who did ariel winter play in cloudy with a chance of meatballs,Various characters,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2985,where is the carlsbad caverns national park located,Guadalupe Mountains of southeastern New Mexico,s Day. Visitors to the cave can hike in on their own via the natural entrance or take an elevator from the visitor center.,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,BM25,BART
+2986,who was playing during the las vegas shooting,Jason Aldean,,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2988,when did courage the cowardly dog stop airing,"November 22, 2002",". The series is known for its dark, surreal humor and atmosphere.",0,1,1,1,0.0,3.333.333.333.333.330,0.2,0.1,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BM25,BART
+2992,how many different species of mosquitoes are there,"Over 3,500",the mosquitoes?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2994,the back of the leg is called what,calf,' and κνήμη ( knḗmē ) `` leg '' ; meaning `` stomach of calf '' ( referring to the bulging shape of the thigh ).,1,1,1,1,1.0,3.333.333.333.333.330,0.2,0.1,1.0,1.0,1.0,1.0,0.0,11.764.705.882.352.900,11.764.705.882.352.900,0.0,BM25,BART
+2995,what is the name of our diocese in sydney,Armidale,?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART
+2997,when was the last time rangers won the treble,2002–03,will be held?,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BM25,BART

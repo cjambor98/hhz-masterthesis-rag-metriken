@@ -1,0 +1,5 @@
+variant,subset,n_eval,em_mean,f1_mean,hit@10_rate,entailment_faithfulness_rate,entailment_score_mean
+A (Conservative),All samples,3000,,,,0.319,0.3019299992666347
+B (Answer-Seeking),All samples,3000,,,,0.378,0.3936553681023264
+A (Conservative),Gold only,1035,0.0,0.012607451921688414,0.2995169082125604,0.3342995169082126,0.3114466202340723
+B (Answer-Seeking),Gold only,1035,0.0,0.012334473725953927,0.2995169082125604,0.3710144927536232,0.3882758795335475

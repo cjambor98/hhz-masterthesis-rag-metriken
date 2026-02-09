@@ -1,0 +1,5 @@
+Metric,Pearson r,p-value,Signifikanz,Interpretation
+EM,0.851,<0.001,***,Stark
+F1,0.948,<0.001,***,Sehr stark
+ROUGEL,0.948,<0.001,***,Sehr stark
+BLEU,0.252,0.002079,**,Keine
